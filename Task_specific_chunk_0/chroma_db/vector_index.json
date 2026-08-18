@@ -1,0 +1,1322 @@
+[
+  {
+    "page_content": "Attention deficit \nhyperactivity disorder: \ndiagnosis and management \nNICE guideline \nPublished: 14 March 2018 \nLast updated: 13 September 2019 \nwww.nice.org.uk/guidance/ng87 \n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 0,
+      "document_name": "ADHD.pdf",
+      "page_number": 1,
+      "citation": "ADHD.pdf:p1",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p1-c0001"
+    }
+  },
+  {
+    "page_content": "Your responsibility \nThe recommendations in this guideline represent the view of NICE, arrived at after careful \nconsideration of the evidence available. When exercising their judgement, professionals \nand practitioners are expected to take this guideline fully into account, alongside the \nindividual needs, preferences and values of their patients or the people using their service. \nIt is not mandatory to apply the recommendations, and the guideline does not override the \nresponsibility to make decisions appropriate to the circumstances of the individual, in \nconsultation with them and their families and carers or guardian. \nAll problems (adverse events) related to a medicine or medical device used for treatment \nor in a procedure should be reported to the Medicines and Healthcare products Regulatory \nAgency using the Yellow Card Scheme. \nLocal commissioners and providers of healthcare have a responsibility to enable the \nguideline to be applied when individual professionals and people using services wish to \nuse it. They should do so in the context of local and national priorities for funding and \ndeveloping services, and in light of their duties to have due regard to the need to eliminate \nunlawful discrimination, to advance equality of opportunity and to reduce health \ninequalities. Nothing in this guideline should be interpreted in a way that would be \ninconsistent with complying with those duties. \nCommissioners and providers have a responsibility to promote an environmentally \nsustainable health and care system and should assess and reduce the environmental",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 1,
+      "document_name": "ADHD.pdf",
+      "page_number": 2,
+      "citation": "ADHD.pdf:p2",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p2-c0002"
+    }
+  },
+  {
+    "page_content": "and to reduce health \ninequalities. Nothing in this guideline should be interpreted in a way that would be \ninconsistent with complying with those duties. \nCommissioners and providers have a responsibility to promote an environmentally \nsustainable health and care system and should assess and reduce the environmental \nimpact of implementing NICE recommendations wherever possible. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 1,
+      "document_name": "ADHD.pdf",
+      "page_number": 2,
+      "citation": "ADHD.pdf:p2",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p2-c0003"
+    }
+  },
+  {
+    "page_content": "Contents \nOverview ...................................................................................................................................... 5 \nWho is it for? .......................................................................................................................................... 5 \nRecommendations ....................................................................................................................... 6 \n1.1 Service organisation and training ................................................................................................... 6 \n1.2 Recognition, identification and referral ......................................................................................... 8 \n1.3 Diagnosis .......................................................................................................................................... 12 \n1.4 Information and support ................................................................................................................. 13 \n1.5 Managing ADHD .............................................................................................................................. 17 \n1.6 Dietary advice .................................................................................................................................. 22 \n1.7 Medication ........................................................................................................................................ 23",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 2,
+      "document_name": "ADHD.pdf",
+      "page_number": 3,
+      "citation": "ADHD.pdf:p3",
+      "section": "1.1 Service organisation and training ..................................................................................",
+      "chunk_id": "ADHD-p3-c0004"
+    }
+  },
+  {
+    "page_content": "..... 17 \n1.6 Dietary advice .................................................................................................................................. 22 \n1.7 Medication ........................................................................................................................................ 23 \n1.8 Maintenance and monitoring .......................................................................................................... 32 \n1.9 Adherence to treatment .................................................................................................................. 35 \n1.10 Review of medication and discontinuation .................................................................................. 37 \nTerms used in this guideline ................................................................................................................. 38 \nRecommendations for research .................................................................................................40 \n1 Children and young people aged 5 to 18 years – brief, group-based, ADHD-focused, parent-\ntraining intervention .............................................................................................................................. 40 \n2 Medication choice in people with coexisting conditions ............................................................... 40 \n3 Medication choice in people with no previous medication for ADHD ........................................... 41",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 2,
+      "document_name": "ADHD.pdf",
+      "page_number": 3,
+      "citation": "ADHD.pdf:p3",
+      "section": "1.1 Service organisation and training ..................................................................................",
+      "chunk_id": "ADHD-p3-c0005"
+    }
+  },
+  {
+    "page_content": "........................................................................... 40 \n2 Medication choice in people with coexisting conditions ............................................................... 40 \n3 Medication choice in people with no previous medication for ADHD ........................................... 41 \n4 Prescribing beyond monotherapy .................................................................................................... 41 \nRationale and impact ................................................................................................................... 42 \nRecognition ............................................................................................................................................ 42 \nInformation and support ....................................................................................................................... 42 \nManaging ADHD – planning treatment ................................................................................................ 43 \nManaging ADHD – children under 5 years .......................................................................................... 45 \nManaging ADHD – children aged 5 years and over and young people ............................................ 45 \nManaging ADHD – adults ...................................................................................................................... 48 \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 2,
+      "document_name": "ADHD.pdf",
+      "page_number": 3,
+      "citation": "ADHD.pdf:p3",
+      "section": "1.1 Service organisation and training ..................................................................................",
+      "chunk_id": "ADHD-p3-c0006"
+    }
+  },
+  {
+    "page_content": "Medication – care arrangements ......................................................................................................... 49 \nMedication – baseline assessment ...................................................................................................... 49 \nMedication – choice .............................................................................................................................. 50 \nMedication – considerations when prescribing and dose titration .................................................. 51 \nMedication – monitoring effectiveness and adverse effects ............................................................ 52 \nAdherence to treatment ....................................................................................................................... 53 \nReview of medication and discontinuation ......................................................................................... 54 \nPutting this guideline into practice ............................................................................................ 55 \nContext ......................................................................................................................................... 57 \nFinding more information and committee details .....................................................................59 \nUpdate information ..................................................................................................................... 60 \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 3,
+      "document_name": "ADHD.pdf",
+      "page_number": 4,
+      "citation": "ADHD.pdf:p4",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p4-c0007"
+    }
+  },
+  {
+    "page_content": "ormation and committee details .....................................................................59 \nUpdate information ..................................................................................................................... 60 \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 3,
+      "document_name": "ADHD.pdf",
+      "page_number": 4,
+      "citation": "ADHD.pdf:p4",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p4-c0008"
+    }
+  },
+  {
+    "page_content": "This guideline replaces CG72, TA98, ESNM19, ESUOM8 and ESNM70. \nThis guideline is the basis of QS39. \nOverview \nThis guideline covers recognising, diagnosing and managing attention deficit hyperactivity \ndisorder (ADHD) in children, young people and adults. It aims to improve recognition and \ndiagnosis, as well as the quality of care and support for people with ADHD. \nWho is it for? \n• Healthcare professionals \n• Commissioners and providers \n• People with ADHD, and their families and carers \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 4,
+      "document_name": "ADHD.pdf",
+      "page_number": 5,
+      "citation": "ADHD.pdf:p5",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p5-c0009"
+    }
+  },
+  {
+    "page_content": "Recommendations \nPeople have the right to be involved in discussions and make informed decisions \nabout their care, as described in making decisions about your care. \nMaking decisions using NICE guidelines explains how we use words to show the \nstrength (or certainty) of our recommendations, and has information about \nprescribing medicines (including off-label use), professionals guidelines, standards \nand laws (including on consent and mental capacity), and safeguarding. \n1.1 Service organisation and training \nService organisation \n1.1.1 People with attention deficit hyperactivity disorder (ADHD) would benefit from \nimproved organisation of care and better integration of child health services, \nchild and adolescent mental health services (CAMHS) and adult mental health \nservices. [2008] \n1.1.2 Mental health services for children, young people and adults, and child health \nservices, should form multidisciplinary specialist ADHD teams and/or clinics for \nchildren and young people, and separate teams and/or clinics for adults. These \nteams and clinics should have expertise in the diagnosis and management of \nADHD, and should: \n• provide diagnostic, treatment and consultation services for people with \nADHD who have complex needs, or where general psychiatric services are in \ndoubt about the diagnosis and/or management of ADHD \n• put in place systems of communication and protocols for information sharing \namong paediatric, child and adolescent, forensic, and adult mental health \nservices for people with ADHD, including arrangements for transition",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 5,
+      "document_name": "ADHD.pdf",
+      "page_number": 6,
+      "citation": "ADHD.pdf:p6",
+      "section": "1.1 Service organisation and training",
+      "chunk_id": "ADHD-p6-c0010"
+    }
+  },
+  {
+    "page_content": "where general psychiatric services are in \ndoubt about the diagnosis and/or management of ADHD \n• put in place systems of communication and protocols for information sharing \namong paediatric, child and adolescent, forensic, and adult mental health \nservices for people with ADHD, including arrangements for transition \nbetween child and adult services \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 5,
+      "document_name": "ADHD.pdf",
+      "page_number": 6,
+      "citation": "ADHD.pdf:p6",
+      "section": "1.1 Service organisation and training",
+      "chunk_id": "ADHD-p6-c0011"
+    }
+  },
+  {
+    "page_content": "• produce local protocols for shared care arrangements with primary care \nproviders, and ensure that clear lines of communication between primary and \nsecondary care are maintained \n• ensure age-appropriate psychological services are available for children, \nyoung people and adults with ADHD, and for parents or carers. \nThe size and time commitment of these teams should depend on local \ncircumstances (for example, the size of the trust, the population covered and \nthe estimated referral rate for people with ADHD). [2008, amended 2018] \n1.1.3 Every locality should develop a multi-agency group, with representatives from \nmultidisciplinary specialist ADHD teams, paediatrics, mental health and learning \ndisability trusts, forensic services, CAMHS, the Directorate for Children and \nYoung People (DCYP; including services for education and social services), \nparent support groups and others with a significant local involvement in ADHD \nservices. The group should: \n• oversee the implementation of this guideline \n• start and coordinate local training initiatives, including the provision of \ntraining and information for teachers about the characteristics of ADHD and \nits basic behavioural management \n• oversee the development and coordination of parent-training/education \nprogrammes \n• consider compiling a comprehensive directory of information and services for \nADHD including advice on how to contact relevant services and assist in the \ndevelopment of specialist teams. [2008, amended 2018] \n1.1.4 A young person with ADHD receiving treatment and care from CAMHS or",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 6,
+      "document_name": "ADHD.pdf",
+      "page_number": 7,
+      "citation": "ADHD.pdf:p7",
+      "section": "1.1.3 Every locality should develop a multi-agency group, with representatives from",
+      "chunk_id": "ADHD-p7-c0012"
+    }
+  },
+  {
+    "page_content": "-training/education \nprogrammes \n• consider compiling a comprehensive directory of information and services for \nADHD including advice on how to contact relevant services and assist in the \ndevelopment of specialist teams. [2008, amended 2018] \n1.1.4 A young person with ADHD receiving treatment and care from CAMHS or \npaediatric services should be reassessed at school-leaving age to establish the \nneed for continuing treatment into adulthood. If treatment is necessary, \narrangements should be made for a smooth transition to adult services with \ndetails of the anticipated treatment and services that the young person will \nrequire. Precise timing of arrangements may vary locally but should usually be \ncompleted by the time the young person is 18 years. See NICE's guideline on \ntransition from children's to adults' services for young people using health or \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 6,
+      "document_name": "ADHD.pdf",
+      "page_number": 7,
+      "citation": "ADHD.pdf:p7",
+      "section": "1.1.3 Every locality should develop a multi-agency group, with representatives from",
+      "chunk_id": "ADHD-p7-c0013"
+    }
+  },
+  {
+    "page_content": "social care services. [2008, amended 2018] \n1.1.5 During the transition to adult services, a formal meeting involving CAMHS and/or \npaediatrics and adult psychiatric services should be considered, and full \ninformation provided to the young person about adult services. For young people \naged 16 years and older, the care programme approach (CPA) should be used as \nan aid to transfer between services. The young person, and when appropriate the \nparent or carer, should be involved in the planning. [2008] \n1.1.6 After transition to adult services, adult healthcare professionals should carry out \na comprehensive assessment of the person with ADHD that includes personal, \neducational, occupational and social functioning, and assessment of any \ncoexisting conditions, especially drug misuse, personality disorders, emotional \nproblems and learning difficulties. [2008] \nTraining \n1.1.7 Trusts should ensure that specialist ADHD teams for children, young people and \nadults jointly develop age-appropriate training programmes for the diagnosis and \nmanagement of ADHD for mental health, paediatric, social care, education, \nforensic and primary care providers and other professionals who have contact \nwith people with ADHD. [2008] \n1.1.8 Child and adult psychiatrists, paediatricians, and other child and adult mental \nhealth professionals (including those working in forensic services) should \nundertake training so that they are able to diagnose ADHD and provide treatment \nand management in accordance with this guideline. [2008] \n1.2 Recognition, identification and referral \nRecognition",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 7,
+      "document_name": "ADHD.pdf",
+      "page_number": 8,
+      "citation": "ADHD.pdf:p8",
+      "section": "1.1.5 During the transition to adult services, a formal meeting involving CAMHS and/or",
+      "chunk_id": "ADHD-p8-c0014"
+    }
+  },
+  {
+    "page_content": "iatricians, and other child and adult mental \nhealth professionals (including those working in forensic services) should \nundertake training so that they are able to diagnose ADHD and provide treatment \nand management in accordance with this guideline. [2008] \n1.2 Recognition, identification and referral \nRecognition \n1.2.1 Be aware that people in the following groups may have increased prevalence of \nADHD compared with the general population: \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 7,
+      "document_name": "ADHD.pdf",
+      "page_number": 8,
+      "citation": "ADHD.pdf:p8",
+      "section": "1.1.5 During the transition to adult services, a formal meeting involving CAMHS and/or",
+      "chunk_id": "ADHD-p8-c0015"
+    }
+  },
+  {
+    "page_content": "• people born preterm (see NICE's guideline on developmental follow-up of \nchildren and young people born preterm) \n• looked-after children and young people \n• children and young people diagnosed with oppositional defiant disorder or \nconduct disorder \n• children and young people with mood disorders (for example, anxiety and \ndepression) \n• people with a close family member diagnosed with ADHD \n• people with epilepsy \n• people with other neurodevelopmental disorders (for example, autism \nspectrum disorder, tic disorders, learning disability [intellectual disability] and \nspecific learning difficulties) \n• adults with a mental health condition \n• people with a history of substance misuse \n• people known to the Youth Justice System or Adult Criminal Justice System \n• people with acquired brain injury. [2018] \n1.2.2 Be aware that ADHD is thought to be under-recognised in girls and women and \nthat: \n• they are less likely to be referred for assessment for ADHD \n• they may be more likely to have undiagnosed ADHD \n• they may be more likely to receive an incorrect diagnosis of another mental \nhealth or neurodevelopmental condition. [2018] \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 8,
+      "document_name": "ADHD.pdf",
+      "page_number": 9,
+      "citation": "ADHD.pdf:p9",
+      "section": "1.2.2 Be aware that ADHD is thought to be under-recognised in girls and women and",
+      "chunk_id": "ADHD-p9-c0016"
+    }
+  },
+  {
+    "page_content": "To find out why the committee made the 2018 recommendations on recognition and \nhow they might affect practice, see the rationale and impact section on recognition. \nFull details of the evidence and the committee's discussion are in evidence review A: \nrisk factors. \nIdentification and referral \n1.2.3 Universal screening for ADHD should not be undertaken in nursery, primary and \nsecondary schools. [2008] \n1.2.4 When a child or young person with disordered conduct and suspected ADHD is \nreferred to a school's special educational needs coordinator (SENCO), the \nSENCO, in addition to helping the child with their behaviour, should inform the \nparents about local parent-training/education programmes. See NICE's guideline \non antisocial behaviour and conduct disorders in children and young people. \n[2008, amended 2018] \n1.2.5 Referral from the community to secondary care may involve health, education \nand social care professionals (for example, GPs, paediatricians, educational \npsychologists, SENCOs, social workers) and care pathways can vary locally. The \nperson making the referral to secondary care should inform the child or young \nperson's GP. [2008] \n1.2.6 When a child or young person presents in primary care with behavioural and/or \nattention problems suggestive of ADHD, primary care practitioners should \ndetermine the severity of the problems, how these affect the child or young \nperson and the parents or carers, and the extent to which they pervade different \ndomains and settings. [2008]",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 9,
+      "document_name": "ADHD.pdf",
+      "page_number": 10,
+      "citation": "ADHD.pdf:p10",
+      "section": "1.2.3 Universal screening for ADHD should not be undertaken in nursery, primary and",
+      "chunk_id": "ADHD-p10-c0017"
+    }
+  },
+  {
+    "page_content": "person presents in primary care with behavioural and/or \nattention problems suggestive of ADHD, primary care practitioners should \ndetermine the severity of the problems, how these affect the child or young \nperson and the parents or carers, and the extent to which they pervade different \ndomains and settings. [2008] \n1.2.7 If the child or young person's behavioural and/or attention problems suggestive \nof ADHD are having an adverse impact on their development or family life, \nconsider: \n• a period of watchful waiting of up to 10 weeks \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 9,
+      "document_name": "ADHD.pdf",
+      "page_number": 10,
+      "citation": "ADHD.pdf:p10",
+      "section": "1.2.3 Universal screening for ADHD should not be undertaken in nursery, primary and",
+      "chunk_id": "ADHD-p10-c0018"
+    }
+  },
+  {
+    "page_content": "• offering parents or carers a referral to group-based ADHD-focused support \n(this should not wait for a formal diagnosis of ADHD). \nIf the behavioural and/or attention problems persist with at least moderate \nimpairment, the child or young person should be referred to secondary care \n(that is, a child psychiatrist, paediatrician, or specialist ADHD CAMHS) for \nassessment. [2008, amended 2018] \n1.2.8 If the child or young person's behavioural and/or attention problems are \nassociated with severe impairment, referral should be made directly to secondary \ncare (that is, a child psychiatrist, paediatrician, or specialist ADHD CAMHS) for \nassessment. [2008] \n1.2.9 Primary care practitioners should not make the initial diagnosis or start \nmedication in children or young people with suspected ADHD. [2008] \n1.2.10 Adults presenting with symptoms of ADHD in primary care or general adult \npsychiatric services, who do not have a childhood diagnosis of ADHD, should be \nreferred for assessment by a mental health specialist trained in the diagnosis and \ntreatment of ADHD, where there is evidence of typical manifestations of ADHD \n(hyperactivity/impulsivity and/or inattention) that: \n• began during childhood and have persisted throughout life \n• are not explained by other psychiatric diagnoses (although there may be \nother coexisting psychiatric conditions) \n• have resulted in or are associated with moderate or severe psychological, \nsocial and/or educational or occupational impairment. [2008] \n1.2.11 Adults who have previously been treated for ADHD as children or young people",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 10,
+      "document_name": "ADHD.pdf",
+      "page_number": 11,
+      "citation": "ADHD.pdf:p11",
+      "section": "1.2.8 If the child or young person's behavioural and/or attention problems are",
+      "chunk_id": "ADHD-p11-c0019"
+    }
+  },
+  {
+    "page_content": "y other psychiatric diagnoses (although there may be \nother coexisting psychiatric conditions) \n• have resulted in or are associated with moderate or severe psychological, \nsocial and/or educational or occupational impairment. [2008] \n1.2.11 Adults who have previously been treated for ADHD as children or young people \nand present with symptoms suggestive of continuing ADHD should be referred to \ngeneral adult psychiatric services for assessment. The symptoms should be \nassociated with at least moderate or severe psychological and/or social or \neducational or occupational impairment. [2008] \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 10,
+      "document_name": "ADHD.pdf",
+      "page_number": 11,
+      "citation": "ADHD.pdf:p11",
+      "section": "1.2.8 If the child or young person's behavioural and/or attention problems are",
+      "chunk_id": "ADHD-p11-c0020"
+    }
+  },
+  {
+    "page_content": "1.3 Diagnosis \n1.3.1 ADHD should only be diagnosed by a specialist psychiatrist, paediatrician or \nother appropriately qualified healthcare professional with training and expertise \nin diagnosing ADHD, on the basis of: \n• a full clinical and psychosocial assessment of the person; this should include \ndiscussion about behaviour and symptoms in the different domains and \nsettings of the person's everyday life and \n• a full developmental and psychiatric history and \n• observer reports and assessment of the person's mental state. [2008] \nAs an option, use QbTest to help diagnose ADHD in people aged 6 to 17 years \nas recommended in NICE's HealthTech guidance on digital technologies for \nassessing ADHD. [2024] \n1.3.2 A diagnosis of ADHD should not be made solely on the basis of rating scale or \nobservational data. However, rating scales such as the Conners' rating scales and \nthe Strengths and Difficulties Questionnaire are helpful added tools, and \nobservations (for example, at school) are useful when there is doubt about \nsymptoms. [2008] \n1.3.3 For an ADHD diagnosis, symptoms of hyperactivity, impulsivity or inattention \nshould: \n• meet the diagnostic criteria for hyperkinetic disorder in DSM‑5 or ICD‑11 (but \nexclusion based on a pervasive developmental disorder or an uncertain time \nof onset is not recommended) and \n• cause at least moderate psychological, social, or educational or occupational \nimpairment based on interview or direct observation in multiple settings and \n• be happening often, occurring in 2 or more important settings including",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 11,
+      "document_name": "ADHD.pdf",
+      "page_number": 12,
+      "citation": "ADHD.pdf:p12",
+      "section": "1.3 Diagnosis",
+      "chunk_id": "ADHD-p12-c0021"
+    }
+  },
+  {
+    "page_content": "vasive developmental disorder or an uncertain time \nof onset is not recommended) and \n• cause at least moderate psychological, social, or educational or occupational \nimpairment based on interview or direct observation in multiple settings and \n• be happening often, occurring in 2 or more important settings including \nsocial, familial, educational or occupational settings. [2008, amended 2018] \n1.3.4 As part of the diagnostic process, include an assessment of the person's needs, \ncoexisting conditions, social, familial and educational or occupational \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 11,
+      "document_name": "ADHD.pdf",
+      "page_number": 12,
+      "citation": "ADHD.pdf:p12",
+      "section": "1.3 Diagnosis",
+      "chunk_id": "ADHD-p12-c0022"
+    }
+  },
+  {
+    "page_content": "circumstances, and physical health. For children and young people, their parents' \nor carers' mental health should also be assessed. [2008, amended 2018] \n1.3.5 Consider ADHD in all age groups, with symptom criteria adjusted for age-\nappropriate changes in behaviour. [2008] \n1.3.6 Take children and young people's views into account wherever possible when \ndetermining the clinical significance of impairment resulting from ADHD \nsymptoms. [2008] \n1.4 Information and support \n1.4.1 Use this guideline with NICE's guidelines on service user experience in adult \nmental health and patient experience in adult NHS services to improve the \nexperience of care for adults with ADHD. The principles also apply to children and \nyoung people, and their parents or carers. [2018] \n1.4.2 Healthcare professionals working with children and young people with ADHD \nshould follow the recommendations on general principles of care in NICE's \nguideline on antisocial behaviour and conduct disorder in children and young \npeople. This does not mean that all children and young people with ADHD have \ncoexisting antisocial behaviour and conduct disorder but that the same general \nprinciples of care apply when working with children and young people with ADHD. \n[2018] \nSupporting people with ADHD \n1.4.3 Following a diagnosis of ADHD, have a structured discussion with people (and \ntheir families or carers as appropriate) about how ADHD could affect their life. \nThis could include: \n• the positive impacts of receiving a diagnosis, such as: \n－ improving their understanding of symptoms",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 12,
+      "document_name": "ADHD.pdf",
+      "page_number": 13,
+      "citation": "ADHD.pdf:p13",
+      "section": "1.3.5 Consider ADHD in all age groups, with symptom criteria adjusted for age-",
+      "chunk_id": "ADHD-p13-c0023"
+    }
+  },
+  {
+    "page_content": "Supporting people with ADHD \n1.4.3 Following a diagnosis of ADHD, have a structured discussion with people (and \ntheir families or carers as appropriate) about how ADHD could affect their life. \nThis could include: \n• the positive impacts of receiving a diagnosis, such as: \n－ improving their understanding of symptoms \n－ identifying and building on individual strengths \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 12,
+      "document_name": "ADHD.pdf",
+      "page_number": 13,
+      "citation": "ADHD.pdf:p13",
+      "section": "1.3.5 Consider ADHD in all age groups, with symptom criteria adjusted for age-",
+      "chunk_id": "ADHD-p13-c0024"
+    }
+  },
+  {
+    "page_content": "－ improving access to services \n• the negative impacts of receiving a diagnosis, such as stigma and labelling \n• a greater tendency for impulsive behaviour \n• the importance of environmental modifications to reduce the impact of ADHD \nsymptoms \n• education issues (for example, reasonable adjustments at school and college) \n• employment issues (for example, impact on career choices and rights to \nreasonable adjustments in the workplace) \n• social relationship issues \n• the challenges of managing ADHD when a person has coexisting \nneurodevelopmental or mental health conditions \n• the increased risk of substance misuse and self-medication \n• the possible effect on driving (for example, ADHD symptoms may impair a \nperson's driving and ADHD medication may improve this; people with ADHD \nmust declare their diagnosis to the DVLA if their ADHD symptoms or \nmedication affect their ability to drive safely). \nThis structured discussion should inform the shared treatment plan. [2018] \n1.4.4 Inform people receiving a diagnosis of ADHD (and their families or carers as \nappropriate) about sources of information, including: \n• local and national support groups and voluntary organisations \n• websites \n• support for education and employment. \nPeople who have had an assessment but whose symptoms and impairment \nfall short of a diagnosis of ADHD may benefit from similar information. [2018] \n1.4.5 Provide information to people with ADHD (and their families and carers as \nappropriate) in a form that: \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 13,
+      "document_name": "ADHD.pdf",
+      "page_number": 14,
+      "citation": "ADHD.pdf:p14",
+      "section": "1.4.4 Inform people receiving a diagnosis of ADHD (and their families or carers as",
+      "chunk_id": "ADHD-p14-c0025"
+    }
+  },
+  {
+    "page_content": "had an assessment but whose symptoms and impairment \nfall short of a diagnosis of ADHD may benefit from similar information. [2018] \n1.4.5 Provide information to people with ADHD (and their families and carers as \nappropriate) in a form that: \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 13,
+      "document_name": "ADHD.pdf",
+      "page_number": 14,
+      "citation": "ADHD.pdf:p14",
+      "section": "1.4.4 Inform people receiving a diagnosis of ADHD (and their families or carers as",
+      "chunk_id": "ADHD-p14-c0026"
+    }
+  },
+  {
+    "page_content": "• takes into account their developmental level, cognitive style, emotional \nmaturity and cognitive capacity, including any learning disabilities, sight or \nhearing problems, delays in language development or social communication \ndifficulties \n• takes into account any coexisting neurodevelopmental and mental health \nconditions \n• is tailored to their individual needs and circumstances, including age, gender, \neducational level and life stage. [2018] \nSupporting families and carers \n1.4.6 Ask families or carers of people with ADHD how the ADHD affects themselves \nand other family members, and discuss any concerns they have. [2018] \n1.4.7 Encourage family members or carers of people with ADHD to seek an assessment \nof their personal, social and mental health needs, and to join self-help and \nsupport groups if appropriate. [2018] \n1.4.8 Think about the needs of a parent with ADHD who also has a child with ADHD, \nincluding whether they need extra support with organisational strategies (for \nexample, with adherence to treatment, daily school routines). [2018] \n1.4.9 Offer advice to parents and carers of children and young people with ADHD \nabout the importance of: \n• positive parent– and carer–child contact \n• clear and appropriate rules about behaviour and consistent management \n• structure in the child or young person's day. [2018] \n1.4.10 Offer advice to families and carers of adults with ADHD about: \n• how ADHD may affect relationships \n• how ADHD may affect the person's functioning \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 14,
+      "document_name": "ADHD.pdf",
+      "page_number": 15,
+      "citation": "ADHD.pdf:p15",
+      "section": "1.4.6 Ask families or carers of people with ADHD how the ADHD affects themselves",
+      "chunk_id": "ADHD-p15-c0027"
+    }
+  },
+  {
+    "page_content": "viour and consistent management \n• structure in the child or young person's day. [2018] \n1.4.10 Offer advice to families and carers of adults with ADHD about: \n• how ADHD may affect relationships \n• how ADHD may affect the person's functioning \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 14,
+      "document_name": "ADHD.pdf",
+      "page_number": 15,
+      "citation": "ADHD.pdf:p15",
+      "section": "1.4.6 Ask families or carers of people with ADHD how the ADHD affects themselves",
+      "chunk_id": "ADHD-p15-c0028"
+    }
+  },
+  {
+    "page_content": "• the importance of structure in daily activities. [2018] \n1.4.11 Explain to parents and carers that any recommendation of parent-training/\neducation does not imply bad parenting, and that the aim is to optimise parenting \nskills to meet the above-average parenting needs of children and young people \nwith ADHD. [2018] \nInvolving schools, colleges and universities \n1.4.12 When ADHD is diagnosed, when symptoms change, and when there is transition \nbetween schools or from school to college or college to university, obtain consent \nand then contact the school, college or university to explain: \n• the validity of a diagnosis of ADHD and how symptoms are likely to affect \nschool, college or university life \n• other coexisting conditions (for example, learning disabilities) are distinct \nfrom ADHD and may need different adjustments \n• the treatment plan and identified special educational needs, including advice \nfor reasonable adjustments and environmental modifications within the \neducational placement \n• the value of feedback from schools, colleges and universities to people with \nADHD and their healthcare professionals. [2018] \nInvolving other healthcare professionals \n1.4.13 When a person with ADHD has a coexisting condition, contact the relevant \nhealthcare professional, with consent, to explain: \n• the validity, scope and implications of a diagnosis of ADHD \n• how ADHD symptoms are likely to affect the person's behaviour (for example, \norganisation, time management, motivation) and adherence to specific \ntreatments",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 15,
+      "document_name": "ADHD.pdf",
+      "page_number": 16,
+      "citation": "ADHD.pdf:p16",
+      "section": "1.4.11 Explain to parents and carers that any recommendation of parent-training/",
+      "chunk_id": "ADHD-p16-c0029"
+    }
+  },
+  {
+    "page_content": "coexisting condition, contact the relevant \nhealthcare professional, with consent, to explain: \n• the validity, scope and implications of a diagnosis of ADHD \n• how ADHD symptoms are likely to affect the person's behaviour (for example, \norganisation, time management, motivation) and adherence to specific \ntreatments \n• the treatment plan and the value of feedback from healthcare professionals. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 15,
+      "document_name": "ADHD.pdf",
+      "page_number": 16,
+      "citation": "ADHD.pdf:p16",
+      "section": "1.4.11 Explain to parents and carers that any recommendation of parent-training/",
+      "chunk_id": "ADHD-p16-c0030"
+    }
+  },
+  {
+    "page_content": "[2018] \nTo find out why the committee made the 2018 recommendations on information and \nsupport, and how they might affect practice, see the rationale and impact section on \ninformation and support. \nFull details of the evidence and the committee's discussion are in evidence review B: \ninformation and support. \n1.5 Managing ADHD \nPlanning treatment \n1.5.1 Healthcare providers should ensure continuity of care for people with ADHD. \n[2018] \n1.5.2 Ensure that people with ADHD have a comprehensive, holistic shared treatment \nplan that addresses psychological, behavioural and occupational or educational \nneeds. Take into account: \n• the severity of ADHD symptoms and impairment, and how these affect or \nmay affect everyday life (including sleep) \n• their goals \n• their resilience and protective factors \n• the relative impact of other neurodevelopmental or mental health conditions. \n[2018] \n1.5.3 Regularly discuss with people with ADHD, and their family members or carers, \nhow they want to be involved in treatment planning and decisions; such \ndiscussions should take place at intervals to take account of changes in \ncircumstances (for example, the transition from children's to adult services) and \ndevelopmental level, and should not happen only once. [2018] \n1.5.4 Before starting any treatment for ADHD, discuss the following with the person, \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 16,
+      "document_name": "ADHD.pdf",
+      "page_number": 17,
+      "citation": "ADHD.pdf:p17",
+      "section": "1.5 Managing ADHD",
+      "chunk_id": "ADHD-p17-c0031"
+    }
+  },
+  {
+    "page_content": "and their family or carers as appropriate, encouraging children and young people \nto give their own account of how they feel: \n• the benefits and harms of non-pharmacological and pharmacological \ntreatments (for example, the efficacy of medication compared with no \ntreatment or non-pharmacological treatments, potential adverse effects and \nnon-response rates) \n• the benefits of a healthy lifestyle, including exercise \n• their preferences and concerns (it is important to understand that a person's \ndecision to start, change or stop treatment may be influenced by media \ncoverage, teachers, family members, friends and differing opinion on the \nvalidity of a diagnosis of ADHD) \n• how other mental health or neurodevelopmental conditions might affect \ntreatment choices \n• the importance of adherence to treatment and any factors that may affect \nthis (for example, it may be difficult to take medication at school or work, or \nto remember appointments). \nRecord the person's preferences and concerns in their treatment plan. [2018] \n1.5.5 Ask young people and adults with ADHD if they wish a parent, partner, close \nfriend or carer to join discussions on treatment and adherence. [2018] \n1.5.6 Reassure people with ADHD, and their families or carers as appropriate, that they \ncan revisit decisions about treatments. [2018] \nTo find out why the committee made the 2018 recommendations on managing ADHD – \nplanning treatment, and how they might affect practice, see the rationale and impact \nsection on managing ADHD – planning treatment.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 17,
+      "document_name": "ADHD.pdf",
+      "page_number": 18,
+      "citation": "ADHD.pdf:p18",
+      "section": "1.5.5 Ask young people and adults with ADHD if they wish a parent, partner, close",
+      "chunk_id": "ADHD-p18-c0032"
+    }
+  },
+  {
+    "page_content": ", and their families or carers as appropriate, that they \ncan revisit decisions about treatments. [2018] \nTo find out why the committee made the 2018 recommendations on managing ADHD – \nplanning treatment, and how they might affect practice, see the rationale and impact \nsection on managing ADHD – planning treatment. \nFull details of the evidence and the committee's discussion are in evidence review H: \nmanaging treatment. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 17,
+      "document_name": "ADHD.pdf",
+      "page_number": 18,
+      "citation": "ADHD.pdf:p18",
+      "section": "1.5.5 Ask young people and adults with ADHD if they wish a parent, partner, close",
+      "chunk_id": "ADHD-p18-c0033"
+    }
+  },
+  {
+    "page_content": "Children under 5 years \nThese recommendations are for healthcare professionals with training and expertise in \ndiagnosing and managing ADHD. See recommendation 1.4.3 for details of ADHD-focused \ninformation. \n1.5.7 Offer an ADHD-focused group parent-training programme to parents or carers of \nchildren under 5 years with ADHD as first-line treatment. See \nrecommendations 1.5.1 to 1.5.10 in NICE's guideline on antisocial behaviour and \nconduct disorders in children and young people. \nThis does not imply that all children under 5 years with ADHD have antisocial \nbehaviour or conduct disorder, but that the same general principles of care apply. \n[2018] \n1.5.8 If after an ADHD-focused group parent-training programme, ADHD symptoms \nacross settings are still causing a significant impairment in a child under 5 years \nafter environmental modifications have been implemented and reviewed, obtain \nadvice from a specialist ADHD service with expertise in managing ADHD in young \nchildren (ideally a tertiary service). [2018] \n1.5.9 Do not offer medication for ADHD for any child under 5 years without a second \nspecialist opinion from an ADHD service with expertise in managing ADHD in \nyoung children (ideally a tertiary service). [2018] \nTo find out why the committee made the 2018 recommendations on managing ADHD – \nchildren under 5 years, and how they might affect practice, see the rationale and \nimpact section on managing ADHD – children under 5 years. \nFull details of the evidence and the committee's discussion are in evidence review E:",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 18,
+      "document_name": "ADHD.pdf",
+      "page_number": 19,
+      "citation": "ADHD.pdf:p19",
+      "section": "1.5.7 Offer an ADHD-focused group parent-training programme to parents or carers of",
+      "chunk_id": "ADHD-p19-c0034"
+    }
+  },
+  {
+    "page_content": "). [2018] \nTo find out why the committee made the 2018 recommendations on managing ADHD – \nchildren under 5 years, and how they might affect practice, see the rationale and \nimpact section on managing ADHD – children under 5 years. \nFull details of the evidence and the committee's discussion are in evidence review E: \nnon-pharmacological efficacy and adverse events and evidence review F: \ncombination treatment. \nChildren aged 5 years and over and young people \nThese recommendations, covering children aged 5 years and over and young people, are \nfor healthcare professionals with training and expertise in diagnosing and managing ADHD. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 18,
+      "document_name": "ADHD.pdf",
+      "page_number": 19,
+      "citation": "ADHD.pdf:p19",
+      "section": "1.5.7 Offer an ADHD-focused group parent-training programme to parents or carers of",
+      "chunk_id": "ADHD-p19-c0035"
+    }
+  },
+  {
+    "page_content": "March 2018 – medicines used for treating ADHD did not have a UK marketing authorisation \nfor children aged 5 years or under (off-label use). See NICE's information on prescribing \nmedicines. \n1.5.10 Give information about ADHD (see recommendation 1.4.3) and offer additional \nsupport to parents and carers of all children aged 5 years and over and young \npeople with ADHD. The support should be ADHD focused, can be group based \nand as few as 1 or 2 sessions. It should include: \n• education and information on the causes and impact of ADHD \n• advice on parenting strategies \n• with consent, liaison with school, college or university (see recommendation \n1.4.12) \n• both parents and carers if feasible. [2018] \n1.5.11 If a child aged 5 years or over or young person has ADHD and symptoms of \noppositional defiant disorder or conduct disorder, offer parents and carers a \nparent-training programme in line with recommendations 1.5.1 to 1.5.10 in NICE's \nguideline on antisocial behaviour and conduct disorders in children and young \npeople, as well as group-based ADHD-focused support. [2018] \n1.5.12 Consider individual parent-training programmes for parents and carers of children \nand young people with ADHD and symptoms of oppositional defiant disorder or \nconduct disorder when: \n• there are particular difficulties for families in attending group sessions (for \nexample, because of disability, needs related to diversity such as language \ndifferences, learning disability [intellectual disability], parental ill-health,",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 19,
+      "document_name": "ADHD.pdf",
+      "page_number": 20,
+      "citation": "ADHD.pdf:p20",
+      "section": "1.5.10 Give information about ADHD (see recommendation 1.4.3) and offer additional",
+      "chunk_id": "ADHD-p20-c0036"
+    }
+  },
+  {
+    "page_content": "DHD and symptoms of oppositional defiant disorder or \nconduct disorder when: \n• there are particular difficulties for families in attending group sessions (for \nexample, because of disability, needs related to diversity such as language \ndifferences, learning disability [intellectual disability], parental ill-health, \nproblems with transport, or where other factors suggest poor prospects for \ntherapeutic engagement) \n• a family's needs are too complex to be met by group-based parent-training \nprogrammes. [2018] \n1.5.13 Offer medication for children aged 5 years and over and young people only if: \n• their ADHD symptoms are still causing a persistent significant impairment in \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 19,
+      "document_name": "ADHD.pdf",
+      "page_number": 20,
+      "citation": "ADHD.pdf:p20",
+      "section": "1.5.10 Give information about ADHD (see recommendation 1.4.3) and offer additional",
+      "chunk_id": "ADHD-p20-c0037"
+    }
+  },
+  {
+    "page_content": "at least one domain after environmental modifications have been \nimplemented and reviewed \n• they and their parents and carers have discussed information about ADHD \n(see recommendation 1.5.4) \n• a baseline assessment has been carried out (see recommendation 1.7.4). \nSee the recommendations on medication. [2018] \n1.5.14 Consider a course of cognitive behavioural therapy (CBT) for young people with \nADHD who have benefited from medication but whose symptoms are still causing \na significant impairment in at least one domain, addressing the following areas: \n• social skills with peers \n• problem-solving \n• self-control \n• active listening skills \n• dealing with and expressing feelings. [2018] \nTo find out why the committee made the 2018 recommendations on managing ADHD – \nchildren aged 5 years and over and young people, and how they might affect practice, \nsee the rationale and impact section on managing ADHD – children aged 5 years and \nover and young people. \nFull details of the evidence and the committee's discussion are in evidence review E: \nnon-pharmacological efficacy and adverse events and evidence review F: \ncombination treatment. \nAdults \nThese recommendations are for healthcare professionals with training and expertise in \ndiagnosing and managing ADHD. See recommendation 1.4.3 for details of ADHD-focused \ninformation. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 20,
+      "document_name": "ADHD.pdf",
+      "page_number": 21,
+      "citation": "ADHD.pdf:p21",
+      "section": "1.5.14 Consider a course of cognitive behavioural therapy (CBT) for young people with",
+      "chunk_id": "ADHD-p21-c0038"
+    }
+  },
+  {
+    "page_content": "1.5.15 Offer medication to adults with ADHD if their ADHD symptoms are still causing a \nsignificant impairment in at least one domain after environmental modifications \nhave been implemented and reviewed. See the recommendations on medication \nchoice. [2018] \n1.5.16 Consider non-pharmacological treatment for adults with ADHD who have: \n• made an informed choice not to have medication \n• difficulty adhering to medication \n• found medication to be ineffective or cannot tolerate it. [2018] \n1.5.17 Consider non-pharmacological treatment in combination with medication for \nadults with ADHD who have benefited from medication but whose symptoms are \nstill causing a significant impairment in at least one domain. [2018] \n1.5.18 When non-pharmacological treatment is indicated for adults with ADHD, offer the \nfollowing as a minimum: \n• a structured supportive psychological intervention focused on ADHD \n• regular follow‑up either in person or by phone. \nTreatment may involve elements of or a full course of CBT. [2018] \nTo find out why the committee made the 2018 recommendations on managing ADHD – \nadults, and how they might affect practice, see the rationale and impact section on \nmanaging ADHD – adults. \nFull details of the evidence and the committee's discussion are in evidence review E: \nnon-pharmacological efficacy and adverse events and evidence review F: \ncombination treatment. \n1.6 Dietary advice \n1.6.1 Healthcare professionals should stress the value of a balanced diet, good \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 21,
+      "document_name": "ADHD.pdf",
+      "page_number": 22,
+      "citation": "ADHD.pdf:p22",
+      "section": "1.5.15 Offer medication to adults with ADHD if their ADHD symptoms are still causing a",
+      "chunk_id": "ADHD-p22-c0039"
+    }
+  },
+  {
+    "page_content": "mmittee's discussion are in evidence review E: \nnon-pharmacological efficacy and adverse events and evidence review F: \ncombination treatment. \n1.6 Dietary advice \n1.6.1 Healthcare professionals should stress the value of a balanced diet, good \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 21,
+      "document_name": "ADHD.pdf",
+      "page_number": 22,
+      "citation": "ADHD.pdf:p22",
+      "section": "1.5.15 Offer medication to adults with ADHD if their ADHD symptoms are still causing a",
+      "chunk_id": "ADHD-p22-c0040"
+    }
+  },
+  {
+    "page_content": "nutrition and regular exercise for children, young people and adults with ADHD. \n[2008] \n1.6.2 Do not advise elimination of artificial colouring and additives from the diet as a \ngenerally applicable treatment for children and young people with ADHD. [2016] \n1.6.3 Ask about foods or drinks that appear to influence hyperactive behaviour as part \nof the clinical assessment of ADHD in children and young people, and: \n• if there is a clear link, advise parents or carers to keep a diary of food and \ndrinks taken and ADHD behaviour \n• if the diary supports a relationship between specific foods and drinks and \nbehaviour, offer referral to a dietitian \n• ensure that further management (for example, specific dietary elimination) is \njointly undertaken by the dietitian, mental health specialist or paediatrician, \nand the parent or carer and child or young person. [2016] \n1.6.4 Do not advise or offer dietary fatty acid supplementation for treating ADHD in \nchildren and young people. [2016] \n1.6.5 Advise the family members or carers of children with ADHD that there is no \nevidence about the long-term effectiveness or potential harms of a 'few food' diet \nfor children with ADHD, and only limited evidence of short-term benefits. [2016] \n1.7 Medication \nThese recommendations, with the exception of recommendation 1.7.29, are for healthcare \nprofessionals with training and expertise in diagnosing and managing ADHD. \n1.7.1 Use this guideline with NICE's guideline on medicines optimisation: the safe and \neffective use of medicines to enable the best possible outcomes. [2018]",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 22,
+      "document_name": "ADHD.pdf",
+      "page_number": 23,
+      "citation": "ADHD.pdf:p23",
+      "section": "1.6.2 Do not advise elimination of artificial colouring and additives from the diet as a",
+      "chunk_id": "ADHD-p23-c0041"
+    }
+  },
+  {
+    "page_content": "recommendations, with the exception of recommendation 1.7.29, are for healthcare \nprofessionals with training and expertise in diagnosing and managing ADHD. \n1.7.1 Use this guideline with NICE's guideline on medicines optimisation: the safe and \neffective use of medicines to enable the best possible outcomes. [2018] \n1.7.2 All medication for ADHD should only be initiated by a healthcare professional with \ntraining and expertise in diagnosing and managing ADHD. [2018] \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 22,
+      "document_name": "ADHD.pdf",
+      "page_number": 23,
+      "citation": "ADHD.pdf:p23",
+      "section": "1.6.2 Do not advise elimination of artificial colouring and additives from the diet as a",
+      "chunk_id": "ADHD-p23-c0042"
+    }
+  },
+  {
+    "page_content": "1.7.3 Healthcare professionals initiating medication for ADHD should: \n• be familiar with the pharmacokinetic profiles of all the short- and long-acting \npreparations available for ADHD \n• ensure that treatment is tailored effectively to the individual needs of the \nchild, young person or adult \n• take account of variations in bioavailability or pharmacokinetic profiles of \ndifferent preparations to avoid reduced effect or excessive adverse effects. \n[2018] \nBaseline assessment \n1.7.4 Before starting medication for ADHD, people with ADHD should have a full \nassessment, which should include: \n• a review to confirm they continue to meet the criteria for ADHD and need \ntreatment \n• a review of mental health and social circumstances, including: \n－ presence of coexisting mental health and neurodevelopmental conditions \n－ current educational or employment circumstances \n－ risk assessment for substance misuse and drug diversion \n－ care needs \n• a review of physical health, including: \n－ a medical history, taking into account conditions that may be \ncontraindications for specific medicines \n－ current medication \n－ height and weight (measured and recorded against the normal range for \nage, height and sex) \n－ baseline pulse and blood pressure (measured with an appropriately sized \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 23,
+      "document_name": "ADHD.pdf",
+      "page_number": 24,
+      "citation": "ADHD.pdf:p24",
+      "section": "1.7.3 Healthcare professionals initiating medication for ADHD should:",
+      "chunk_id": "ADHD-p24-c0043"
+    }
+  },
+  {
+    "page_content": "cuff and compared with the normal range for age) \n－ a cardiovascular assessment. \nAn electrocardiogram (ECG) is not needed before starting stimulants, \natomoxetine or guanfacine, unless the person has any of the features in \nrecommendation 1.7.5, or a co-existing condition that is being treated \nwith a medicine that may pose an increased cardiac risk. [2018, \namended 2019] \n1.7.5 Refer for a cardiology opinion before starting medication for ADHD if any of the \nfollowing apply: \n• history of congenital heart disease or previous cardiac surgery \n• history of sudden death in a first-degree relative under 40 years suggesting a \ncardiac disease \n• shortness of breath on exertion compared with peers \n• fainting on exertion or in response to fright or noise \n• palpitations that are rapid, regular and start and stop suddenly (fleeting \noccasional bumps are usually ectopic and do not need investigation) \n• chest pain suggesting cardiac origin \n• signs of heart failure \n• a murmur heard on cardiac examination \n• blood pressure that is classified as hypertensive for adults (see NICE's \nguideline on hypertension in adults). [2018] \n1.7.6 Refer to a paediatric hypertension specialist before starting medication for ADHD \nif blood pressure is consistently above the 95th centile for age and height for \nchildren and young people. [2018] \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 24,
+      "document_name": "ADHD.pdf",
+      "page_number": 25,
+      "citation": "ADHD.pdf:p25",
+      "section": "recommendation 1.7.5, or a co-existing condition that is being treated",
+      "chunk_id": "ADHD-p25-c0044"
+    }
+  },
+  {
+    "page_content": "To find out why the committee made the 2018 recommendations on medication – \nbaseline assessment, and how they might affect practice, see the rationale and \nimpact section on medication – baseline assessment. \nFull details of the evidence and the committee's discussion are in evidence review D: \npharmacological safety. \nMedication choice – children aged 5 years and over and young \npeople \nRecommendations 1.7.7 to 1.7.10 update NICE's technology appraisal guidance on \nmethylphenidate, atomoxetine and dexamfetamine for ADHD in children and adolescents \n(TA98). \n1.7.7 Offer methylphenidate (either short or long acting) as the first line \npharmacological treatment for children aged 5 years and over and young people \nwith ADHD. \nMarch 2018 – this is an off-label use for children aged 5 years. See NICE's \ninformation on prescribing medicines. [2018] \n1.7.8 Consider switching to lisdexamfetamine for children aged 5 years and over and \nyoung people who have had a 6‑week trial of methylphenidate at an adequate \ndose and not derived enough benefit in terms of reduced ADHD symptoms and \nassociated impairment. \nMarch 2018 – this is an off-label use for children aged 5 years. See NICE's \ninformation on prescribing medicines. [2018] \n1.7.9 Consider dexamfetamine for children aged 5 years and over and young people \nwhose ADHD symptoms are responding to lisdexamfetamine but who cannot \ntolerate the longer effect profile. \nMarch 2018 – dexamfetamine is only licensed to treat ADHD in children and \nyoung people aged 6 to 17 years when response to methylphenidate is clinically",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 25,
+      "document_name": "ADHD.pdf",
+      "page_number": 26,
+      "citation": "ADHD.pdf:p26",
+      "section": "1.7.7 Offer methylphenidate (either short or long acting) as the first line",
+      "chunk_id": "ADHD-p26-c0045"
+    }
+  },
+  {
+    "page_content": "ine for children aged 5 years and over and young people \nwhose ADHD symptoms are responding to lisdexamfetamine but who cannot \ntolerate the longer effect profile. \nMarch 2018 – dexamfetamine is only licensed to treat ADHD in children and \nyoung people aged 6 to 17 years when response to methylphenidate is clinically \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 25,
+      "document_name": "ADHD.pdf",
+      "page_number": 26,
+      "citation": "ADHD.pdf:p26",
+      "section": "1.7.7 Offer methylphenidate (either short or long acting) as the first line",
+      "chunk_id": "ADHD-p26-c0046"
+    }
+  },
+  {
+    "page_content": "inadequate. It is not licensed for children and young people aged 5 to 17 years \nwho have responded to but are intolerant of lisdexamfetamine.See NICE's \ninformation on prescribing medicines. [2018] \n1.7.10 Offer atomoxetine or guanfacine to children aged 5 years and over and young \npeople if: \n• they cannot tolerate methylphenidate or lisdexamfetamine or \n• their symptoms have not responded to separate 6‑week trials of \nlisdexamfetamine and methylphenidate, having considered alternative \npreparations and adequate doses. \nMarch 2018 – this is an off-label use of atomoxetine and guanfacine for \nchildren aged 5 years. See NICE's information on prescribing medicines. \n[2018] \nMedication choice – adults \n1.7.11 Offer lisdexamfetamine or methylphenidate as first-line pharmacological \ntreatment for adults with ADHD. \nMarch 2018 – this is an off-label use of lisdexamfetamine for adults with no ADHD \nsymptoms in childhood. See NICE's information on prescribing medicines. Not all \npreparations of methylphenidate are licensed for treating symptoms of ADHD in \nadults. [2018] \n1.7.12 Consider switching to lisdexamfetamine for adults who have had a 6‑week trial of \nmethylphenidate at an adequate dose but have not derived enough benefit in \nterms of reduced ADHD symptoms and associated impairment. [2018] \n1.7.13 Consider switching to methylphenidate for adults who have had a 6‑week trial of \nlisdexamfetamine at an adequate dose but have not derived enough benefit in \nterms of reduced ADHD symptoms and associated impairment. [2018]",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 26,
+      "document_name": "ADHD.pdf",
+      "page_number": 27,
+      "citation": "ADHD.pdf:p27",
+      "section": "1.7.10 Offer atomoxetine or guanfacine to children aged 5 years and over and young",
+      "chunk_id": "ADHD-p27-c0047"
+    }
+  },
+  {
+    "page_content": "ved enough benefit in \nterms of reduced ADHD symptoms and associated impairment. [2018] \n1.7.13 Consider switching to methylphenidate for adults who have had a 6‑week trial of \nlisdexamfetamine at an adequate dose but have not derived enough benefit in \nterms of reduced ADHD symptoms and associated impairment. [2018] \n1.7.14 Consider dexamfetamine for adults whose ADHD symptoms are responding to \nlisdexamfetamine but who cannot tolerate the longer effect profile. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 26,
+      "document_name": "ADHD.pdf",
+      "page_number": 27,
+      "citation": "ADHD.pdf:p27",
+      "section": "1.7.10 Offer atomoxetine or guanfacine to children aged 5 years and over and young",
+      "chunk_id": "ADHD-p27-c0048"
+    }
+  },
+  {
+    "page_content": "March 2018 – this is an off-label use of dexamfetamine. See NICE's information \non prescribing medicines. [2018] \n1.7.15 Offer atomoxetine to adults if: \n• they cannot tolerate lisdexamfetamine or methylphenidate or \n• their symptoms have not responded to separate 6‑week trials of \nlisdexamfetamine and methylphenidate, having considered alternative \npreparations and adequate doses. \nMarch 2018 – this is an off-label use of atomoxetine for adults with no ADHD \nsymptoms in childhood. See NICE's information on prescribing medicines. \n[2018] \nFurther medication choices \n1.7.16 Obtain a second opinion or refer to a tertiary service if ADHD symptoms in a child \naged 5 years or over, a young person or adult are unresponsive to one or more \nstimulants and one non-stimulant. [2018] \n1.7.17 Do not offer any of the following medication for ADHD without advice from a \ntertiary ADHD service: \n• guanfacine for adults (off-label use) \n• clonidine for children with ADHD and sleep disturbance, rages or tics (off-\nlabel use) \n• atypical antipsychotics in addition to stimulants for people with ADHD and \ncoexisting pervasive aggression, rages or irritability \n• medication not included in recommendations 1.7.7 to 1.7.15. \nSee NICE's information on prescribing medicines. [2018] \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 27,
+      "document_name": "ADHD.pdf",
+      "page_number": 28,
+      "citation": "ADHD.pdf:p28",
+      "section": "1.7.15 Offer atomoxetine to adults if:",
+      "chunk_id": "ADHD-p28-c0049"
+    }
+  },
+  {
+    "page_content": "Medication choice – people with coexisting conditions \n1.7.18 Offer the same medication choices to people with ADHD and anxiety disorder, tic \ndisorder or autism spectrum disorder as other people with ADHD. [2018] \n1.7.19 For children aged 5 years and over, young people and adults with ADHD \nexperiencing an acute psychotic or manic episode: \n• stop any medication for ADHD \n• consider restarting or starting new ADHD medication after the episode has \nresolved, taking into account the individual circumstances, risks and benefits \nof the ADHD medication. [2018] \nTo find out why the committee made the 2018 recommendations on medication \nchoice, and how they might affect practice, see the rationale and impact section on \nmedication – choice. \nFull details of the evidence and the committee's discussion are in evidence review C: \npharmacological efficacy and sequencing. \nConsiderations when prescribing ADHD medication \n1.7.20 When prescribing stimulants for ADHD, think about modified-release once-daily \npreparations for the following reasons: \n• convenience \n• improving adherence \n• reducing stigma (because there is no need to take medication at school or in \nthe workplace) \n• reducing problems of storing and administering controlled drugs at school \n• the risk of stimulant misuse and diversion with immediate-release \npreparations \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 28,
+      "document_name": "ADHD.pdf",
+      "page_number": 29,
+      "citation": "ADHD.pdf:p29",
+      "section": "1.7.18 Offer the same medication choices to people with ADHD and anxiety disorder, tic",
+      "chunk_id": "ADHD-p29-c0050"
+    }
+  },
+  {
+    "page_content": "• their pharmacokinetic profiles. \nImmediate-release preparations may be suitable if more flexible dosing \nregimens are needed, or during initial titration to determine correct dosing \nlevels. [2018] \n1.7.21 When prescribing stimulants for ADHD, be aware that effect size, duration of \neffect and adverse effects vary from person to person. [2018] \n1.7.22 Think about using a modified-release preparation of methylphenidate in the \nmorning and an immediate-release preparation of methylphenidate at another \ntime of the day to extend the duration of effect. [2018] \n1.7.23 Be cautious about prescribing stimulants for ADHD if there is a risk of diversion \nfor cognitive enhancement or appetite suppression. [2018] \n1.7.24 Do not offer immediate-release stimulants or modified-release stimulants that \ncan be easily injected or insufflated if there is a risk of stimulant misuse or \ndiversion. [2018] \n1.7.25 Prescribers should be familiar with the requirements of controlled drug legislation \ngoverning the prescription and supply of stimulants. See NICE's guideline on \ncontrolled drugs. [2018] \nDose titration \n1.7.26 During the titration phase, ADHD symptoms, impairment and adverse effects \nshould be recorded at baseline and at each dose change on standard scales by \nparents and teachers, and progress reviewed regularly (for example, by weekly \ntelephone contact) with a specialist. [2018] \n1.7.27 Titrate the dose against symptoms and adverse effects in line with the BNF or \nBNF for Children until dose optimisation is achieved, that is, reduced symptoms,",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 29,
+      "document_name": "ADHD.pdf",
+      "page_number": 30,
+      "citation": "ADHD.pdf:p30",
+      "section": "1.7.21 When prescribing stimulants for ADHD, be aware that effect size, duration of",
+      "chunk_id": "ADHD-p30-c0051"
+    }
+  },
+  {
+    "page_content": "nge on standard scales by \nparents and teachers, and progress reviewed regularly (for example, by weekly \ntelephone contact) with a specialist. [2018] \n1.7.27 Titrate the dose against symptoms and adverse effects in line with the BNF or \nBNF for Children until dose optimisation is achieved, that is, reduced symptoms, \npositive behaviour change, improvements in education, employment and \nrelationships, with tolerable adverse effects. [2018] \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 29,
+      "document_name": "ADHD.pdf",
+      "page_number": 30,
+      "citation": "ADHD.pdf:p30",
+      "section": "1.7.21 When prescribing stimulants for ADHD, be aware that effect size, duration of",
+      "chunk_id": "ADHD-p30-c0052"
+    }
+  },
+  {
+    "page_content": "1.7.28 Ensure that dose titration is slower and monitoring more frequent if any of the \nfollowing are present in people with ADHD: \n• neurodevelopmental disorders (for example, autism spectrum disorder, tic \ndisorders, learning disability [intellectual disability]) \n• mental health conditions (for example, anxiety disorders [including \nobsessive–compulsive disorder], schizophrenia or bipolar disorder, \ndepression, personality disorder, eating disorder, post-traumatic stress \ndisorder, substance misuse) \n• physical health conditions (for example, cardiac disease, epilepsy or acquired \nbrain injury). [2018] \nTo find out why the committee made the 2018 recommendations on medication – \nconsiderations when prescribing and dose titration, and how they might affect \npractice, see the rationale and impact section on medication – considerations when \nprescribing and dose titration. \nFull details of the evidence and the committee's discussion are in evidence review D: \npharmacological safety. \nShared care for medication \n1.7.29 After titration and dose stabilisation, prescribing and monitoring of ADHD \nmedication should be carried out under Shared Care Protocol arrangements with \nprimary care. [2018] \nTo find out why the committee made the 2018 recommendations on medication – care \narrangements, and how they might affect practice, see the rationale and impact \nsection on medication – care arrangements. \nFull details of the evidence and the committee's discussion are in evidence review D: \npharmacological safety.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 30,
+      "document_name": "ADHD.pdf",
+      "page_number": 31,
+      "citation": "ADHD.pdf:p31",
+      "section": "1.7.28 Ensure that dose titration is slower and monitoring more frequent if any of the",
+      "chunk_id": "ADHD-p31-c0053"
+    }
+  },
+  {
+    "page_content": "To find out why the committee made the 2018 recommendations on medication – care \narrangements, and how they might affect practice, see the rationale and impact \nsection on medication – care arrangements. \nFull details of the evidence and the committee's discussion are in evidence review D: \npharmacological safety. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 30,
+      "document_name": "ADHD.pdf",
+      "page_number": 31,
+      "citation": "ADHD.pdf:p31",
+      "section": "1.7.28 Ensure that dose titration is slower and monitoring more frequent if any of the",
+      "chunk_id": "ADHD-p31-c0054"
+    }
+  },
+  {
+    "page_content": "1.8 Maintenance and monitoring \n1.8.1 Monitor effectiveness of medication for ADHD and adverse effects, and \ndocument in the person's notes. [2018] \n1.8.2 Encourage people taking medication for ADHD to monitor and record their \nadverse effects, for example, by using an adverse effect checklist. [2018] \n1.8.3 Consider using standard symptom and adverse effect rating scales for clinical \nassessment and throughout the course of treatment for people with ADHD. \n[2018] \n1.8.4 Ensure that children, young people and adults receiving treatment for ADHD have \nreview and follow‑up according to the severity of their condition, regardless of \nwhether or not they are taking medication. [2018] \nHeight and weight \n1.8.5 For people taking medication for ADHD: \n• measure height every 6 months in children and young people \n• measure weight every 3 months in children 10 years and under \n• measure weight at 3 and 6 months after starting treatment in children over \n10 years and young people, and every 6 months thereafter, or more often if \nconcerns arise \n• measure weight every 6 months in adults \n• plot height and weight of children and young people on a growth chart and \nensure review by the healthcare professional responsible for treatment. \n[2018] \n1.8.6 If weight loss is a clinical concern, consider the following strategies: \n• taking medication either with or after food, rather than before meals \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 31,
+      "document_name": "ADHD.pdf",
+      "page_number": 32,
+      "citation": "ADHD.pdf:p32",
+      "section": "1.8 Maintenance and monitoring",
+      "chunk_id": "ADHD-p32-c0055"
+    }
+  },
+  {
+    "page_content": "• taking additional meals or snacks early in the morning or late in the evening \nwhen stimulant effects have worn off \n• obtaining dietary advice \n• consuming high-calorie foods of good nutritional value \n• taking a planned break from treatment \n• changing medication. [2018] \n1.8.7 If a child or young person's height over time is significantly affected by \nmedication (that is, they have not met the height expected for their age), \nconsider a planned break in treatment over school holidays to allow 'catch‑up' \ngrowth. [2018] \n1.8.8 Consider monitoring BMI of adults with ADHD if there has been weight change as \na result of their treatment, and changing the medication if weight change \npersists. [2018] \nCardiovascular \n1.8.9 Monitor heart rate and blood pressure and compare with the normal range for \nage before and after each dose change and every 6 months. [2018] \n1.8.10 Do not offer routine blood tests (including liver function tests) or ECGs to people \ntaking medication for ADHD unless there is a clinical indication. [2018] \n1.8.11 If a person taking ADHD medication has sustained resting tachycardia (more than \n120 beats per minute), arrhythmia or systolic blood pressure greater than the \n95th percentile (or a clinically significant increase) measured on 2 occasions, \nreduce their dose and refer them to a paediatric hypertension specialist or adult \nphysician. [2018] \n1.8.12 If a person taking guanfacine has sustained orthostatic hypotension or fainting \nepisodes, reduce their dose or switch to another ADHD medication. [2018]",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 32,
+      "document_name": "ADHD.pdf",
+      "page_number": 33,
+      "citation": "ADHD.pdf:p33",
+      "section": "1.8.7 If a child or young person's height over time is significantly affected by",
+      "chunk_id": "ADHD-p33-c0056"
+    }
+  },
+  {
+    "page_content": "nically significant increase) measured on 2 occasions, \nreduce their dose and refer them to a paediatric hypertension specialist or adult \nphysician. [2018] \n1.8.12 If a person taking guanfacine has sustained orthostatic hypotension or fainting \nepisodes, reduce their dose or switch to another ADHD medication. [2018] \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 32,
+      "document_name": "ADHD.pdf",
+      "page_number": 33,
+      "citation": "ADHD.pdf:p33",
+      "section": "1.8.7 If a child or young person's height over time is significantly affected by",
+      "chunk_id": "ADHD-p33-c0057"
+    }
+  },
+  {
+    "page_content": "Tics \n1.8.13 If a person taking stimulants develops tics, think about whether: \n• the tics are related to the stimulant (tics naturally wax and wane) and \n• the impairment associated with the tics outweighs the benefits of ADHD \ntreatment. [2018] \n1.8.14 If tics are stimulant related, reduce the stimulant dose, or consider changing to \nguanfacine (in children aged 5 years and over and young people only), \natomoxetine (off-label use for adults with no ADHD symptoms in childhood), \nclonidine (off-label use for children), \nor stopping medication. \nClonidine should only be considered for people under 18 years after advice from \na tertiary ADHD service. [2018] \nSexual dysfunction \n1.8.15 Monitor young people and adults with ADHD for sexual dysfunction (that is, \nerectile and ejaculatory dysfunction) as potential adverse effects of atomoxetine. \n[2018] \nSeizures \n1.8.16 If a person with ADHD develops new seizures or a worsening of existing seizures, \nreview their ADHD medication and stop any medication that might be \ncontributing to the seizures. After investigation, cautiously reintroduce ADHD \nmedication if it is unlikely to be the cause of the seizures. [2018] \nSleep \n1.8.17 Monitor changes in sleep pattern (for example, with a sleep diary) and adjust \nmedication accordingly. [2018] \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 33,
+      "document_name": "ADHD.pdf",
+      "page_number": 34,
+      "citation": "ADHD.pdf:p34",
+      "section": "1.8.13 If a person taking stimulants develops tics, think about whether:",
+      "chunk_id": "ADHD-p34-c0058"
+    }
+  },
+  {
+    "page_content": "Worsening behaviour \n1.8.18 Monitor the behavioural response to medication, and if behaviour worsens adjust \nmedication and review the diagnosis. [2018] \nStimulant diversion \n1.8.19 Healthcare professionals and parents or carers should monitor changes in the \npotential for stimulant misuse and diversion, which may come with changes in \ncircumstances and age. [2018] \nTo find out why the committee made the 2018 recommendations on medication – \nmonitoring adverse effects, and how they might affect practice, see the rationale and \nimpact section on medication – monitoring effectiveness and adverse effects. \nFull details of the evidence and the committee's discussion are in evidence review D: \npharmacological safety. \n1.9 Adherence to treatment \n1.9.1 Use this guideline with NICE's guideline on medicines adherence to improve the \ncare for adults with ADHD. The principles also apply to children and young \npeople. [2018] \n1.9.2 Be aware that the symptoms of ADHD may lead to people having difficulty \nadhering to treatment plans (for example, remembering to order and collect \nmedication). [2018] \n1.9.3 Ensure that people are fully informed of the balance of risks and benefits of any \ntreatment for ADHD and check that problems with adherence are not due to \nmisconceptions (for example, tell people that medication does not change \npersonality). [2018] \n1.9.4 Encourage the person with ADHD to use the following strategies to support \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 34,
+      "document_name": "ADHD.pdf",
+      "page_number": 35,
+      "citation": "ADHD.pdf:p35",
+      "section": "1.8.18 Monitor the behavioural response to medication, and if behaviour worsens adjust",
+      "chunk_id": "ADHD-p35-c0059"
+    }
+  },
+  {
+    "page_content": "adherence to treatment: \n• being responsible for their own health, including taking their medication as \nneeded \n• following clear instructions about how to take the medication in picture or \nwritten format, which may include information on dose, duration, adverse \neffects, dosage schedule (the instructions should stay with the medication, \nfor example, a sticker on the side of the packet) \n• using visual reminders to take medication regularly (for example, apps, \nalarms, clocks, pill dispensers, or notes on calendars or fridges) \n• taking medication as part of their daily routine (for example, before meals or \nafter brushing teeth) \n• attending peer support groups (for both the person with ADHD and for the \nfamilies and carers). [2018] \n1.9.5 Encourage parents and carers to oversee ADHD medication for children and \nyoung people. [2018] \nSupporting adherence to non-pharmacological treatments \n1.9.6 Support adherence to non-pharmacological treatments (for example, CBT) by \ndiscussing the following: \n• the balance of risks and benefits (for example, how the treatment can have a \npositive effect on ADHD symptoms) \n• the potential barriers to continuing treatment, including: \n－ not being sure if it is making any difference \n－ the time and organisational skills needed to commit to the treatment \n－ the time that might be needed outside of the sessions (for example, to \ncomplete homework) \n• strategies to deal with any identified barriers (for example, scheduling \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 35,
+      "document_name": "ADHD.pdf",
+      "page_number": 36,
+      "citation": "ADHD.pdf:p36",
+      "section": "1.9.5 Encourage parents and carers to oversee ADHD medication for children and",
+      "chunk_id": "ADHD-p36-c0060"
+    }
+  },
+  {
+    "page_content": "sessions to minimise inconvenience or seeking courses with child care \nprovision) \n• a possible effect of treatment being increased self-awareness, and the \nchallenging impact this may have on the person and the people around them \n• the importance of long-term adherence beyond the duration of any initial \nprogramme (for example, by attending follow‑up/refresher support to sustain \nlearned strategies). [2018] \nTo find out why the committee made the 2018 recommendations on adherence to \ntreatment and how they might affect practice, see the rationale and impact section on \nadherence to treatment. \nFull details of the evidence and the committee's discussion are in evidence review G: \nadherence. \n1.10 Review of medication and discontinuation \n1.10.1 A healthcare professional with training and expertise in managing ADHD should \nreview ADHD medication at least once a year and discuss with the person with \nADHD (and their families and carers as appropriate) whether medication should \nbe continued. The review should include a comprehensive assessment of the: \n• preference of the child, young person or adult with ADHD (and their family or \ncarers as appropriate) \n• benefits, including how well the current treatment is working throughout the \nday \n• adverse effects \n• clinical need and whether medication has been optimised \n• impact on education and employment \n• effects of missed doses, planned dose reductions and periods of no \ntreatment \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 36,
+      "document_name": "ADHD.pdf",
+      "page_number": 37,
+      "citation": "ADHD.pdf:p37",
+      "section": "1.10 Review of medication and discontinuation",
+      "chunk_id": "ADHD-p37-c0061"
+    }
+  },
+  {
+    "page_content": "• effect of medication on existing or new mental health, physical health or \nneurodevelopmental conditions \n• need for support and type of support (for example, psychological, \neducational, social) if medication has been optimised but ADHD symptoms \ncontinue to cause a significant impairment. [2018] \n1.10.2 Encourage people with ADHD to discuss any preferences to stop or change \nmedication and to be involved in any decisions about stopping treatments. [2018] \n1.10.3 Consider trial periods of stopping medication or reducing the dose when \nassessment of the overall balance of benefits and harms suggests this may be \nappropriate. If the decision is made to continue medication, the reasons for this \nshould be documented. [2018] \nTo find out why the committee made the 2018 recommendations on review of \nmedication and discontinuation, and how they might affect practice, see the rationale \nand impact section on review of medication and discontinuation. \nFull details of the evidence and the committee's discussion are in evidence review I: \nwithdrawal and drug holidays. \nTerms used in this guideline \nDomains \nDomains refer to areas of function, for example, interpersonal relationships, education and \noccupational attainment, and risk awareness. \nEnvironmental modifications \nEnvironmental modifications are changes that are made to the physical environment in \norder to minimise the impact of a person's ADHD on their day-to-day life. Appropriate \nenvironmental modifications will be specific to the circumstances of each person with",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 37,
+      "document_name": "ADHD.pdf",
+      "page_number": 38,
+      "citation": "ADHD.pdf:p38",
+      "section": "1.10.2 Encourage people with ADHD to discuss any preferences to stop or change",
+      "chunk_id": "ADHD-p38-c0062"
+    }
+  },
+  {
+    "page_content": "tainment, and risk awareness. \nEnvironmental modifications \nEnvironmental modifications are changes that are made to the physical environment in \norder to minimise the impact of a person's ADHD on their day-to-day life. Appropriate \nenvironmental modifications will be specific to the circumstances of each person with \nADHD and should be determined from an assessment of their needs. Examples may \ninclude changes to seating arrangements, changes to lighting and noise, reducing \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 37,
+      "document_name": "ADHD.pdf",
+      "page_number": 38,
+      "citation": "ADHD.pdf:p38",
+      "section": "1.10.2 Encourage people with ADHD to discuss any preferences to stop or change",
+      "chunk_id": "ADHD-p38-c0063"
+    }
+  },
+  {
+    "page_content": "distractions (for example, using headphones), optimising work or education to have \nshorter periods of focus with movement breaks (including the use of 'I need a break' \ncards), reinforcing verbal requests with written instructions and, for children, the \nappropriate use of teaching assistants at school. \nReasonable adjustments \nReasonable adjustments is a term that refers to the legal obligations of employers and \nhigher education providers to make sure that workers or students with disabilities, or \nphysical or mental health conditions are not substantially disadvantaged when doing their \njobs or during their education. \nSettings \nSettings refer to the physical location, for example, home, nursery, friends or family \nhomes. \nShared treatment plan \nA written treatment plan shared between healthcare professional and the person with \nADHD; for children, this may be shared more widely (for example, with families, schools or \nsocial care, if relevant and agreed). \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 38,
+      "document_name": "ADHD.pdf",
+      "page_number": 39,
+      "citation": "ADHD.pdf:p39",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p39-c0064"
+    }
+  },
+  {
+    "page_content": "Recommendations for research \nThe guideline committee has made the following recommendations for research. \n1 Children and young people aged 5 to 18 years – \nbrief, group-based, ADHD-focused, parent-training \nintervention \nWhat is the clinical and cost effectiveness, and optimum length, of a brief parent-training \nintervention for parents and carers of children and young people with attention deficit \nhyperactivity disorder (ADHD) aged 5 to 18 years? \nWhy this is important \nThere was no clear evidence identified about the benefit of formal parent-training \nprogrammes for ADHD symptoms in children and young people aged 5 to 18 years. The \ncost effectiveness of these programmes was unclear, partly because of uncertainty over \nthe number of sessions and the length of programme needed to achieve clinical benefit. \nThis research recommendation would help address these uncertainties. \n2 Medication choice in people with coexisting \nconditions \nWhat is the clinical and cost effectiveness of ADHD medications in people with ADHD and \ntic disorders, a history of psychosis or mania, or personality disorder? \nWhy is this important \nNo evidence was identified to justify different medication choices in people with ADHD \nand tic disorders, a history of psychosis or mania, or emotional dysregulation. These \ngroups are often excluded from trials. There are reasons (for example, mechanism of \naction of medication options, previous reports of adverse effects) to suspect that these \ngroups may respond differently to different drugs, but a lack of trials to confirm this.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 39,
+      "document_name": "ADHD.pdf",
+      "page_number": 40,
+      "citation": "ADHD.pdf:p40",
+      "section": "1 Children and young people aged 5 to 18 years –",
+      "chunk_id": "ADHD-p40-c0065"
+    }
+  },
+  {
+    "page_content": "psychosis or mania, or emotional dysregulation. These \ngroups are often excluded from trials. There are reasons (for example, mechanism of \naction of medication options, previous reports of adverse effects) to suspect that these \ngroups may respond differently to different drugs, but a lack of trials to confirm this. \nPrimarily there are some concerns that stimulant medication may worsen the symptoms of \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 39,
+      "document_name": "ADHD.pdf",
+      "page_number": 40,
+      "citation": "ADHD.pdf:p40",
+      "section": "1 Children and young people aged 5 to 18 years –",
+      "chunk_id": "ADHD-p40-c0066"
+    }
+  },
+  {
+    "page_content": "any of these coexisting conditions and therefore non-stimulant medication should be \npreferred. \n3 Medication choice in people with no previous \nmedication for ADHD \nWhat is the clinical and cost effectiveness of ADHD medications in people with ADHD with \nno previous medication for the condition? \nWhy is this important \nMost of the evidence to support the recommendations for medication choices for people \nwith ADHD comes from studies in people who have previously received medication. \nTherefore, these studies often include a population not representative of the people with \nnewly diagnosed ADHD. There may be differing levels of efficacy of the various treatment \noptions in people who have received no previous medication for ADHD. \n4 Prescribing beyond monotherapy \nWhat is the clinical and cost effectiveness of various ADHD prescribing strategies when \nmonotherapy has failed? \nWhy is this important \nThis guideline makes recommendations for the medication choices for people with ADHD \nup to the point at which common monotherapies are exhausted. There is very little \nevidence to guide healthcare professionals beyond this point, particularly with regard to \nwhether there is a benefit of prescribing stimulant and non-stimulant medication together. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 40,
+      "document_name": "ADHD.pdf",
+      "page_number": 41,
+      "citation": "ADHD.pdf:p41",
+      "section": "3 Medication choice in people with no previous",
+      "chunk_id": "ADHD-p41-c0067"
+    }
+  },
+  {
+    "page_content": "Rationale and impact \nRecognition \nRecommendations 1.2.1 and 1.2.2 \nWhy the committee made the recommendations \nEvidence showed that the prevalence of attention deficit hyperactivity disorder (ADHD) is \nhigher in some groups than in the general population. The committee agreed that a \nrecommendation was needed to raise awareness of these groups among non-specialists \nto help them avoid missing a diagnosis of ADHD. Although no evidence was identified for a \nhigher prevalence in people known to the Youth Justice System or Adult Criminal Justice \nSystem and people with acquired brain injury, the committee agreed that in their \nexperience, these groups often receive a late diagnosis of ADHD or a misdiagnosis. No \nevidence was found on the increased risk of missing a diagnosis of ADHD in girls. But the \ncommittee discussed the different symptoms often found in this group, and agreed to \nmake a recommendation to raise awareness. \nHow the recommendations might affect practice \nThe recommendations are to raise awareness among non-specialists of a possible \ndiagnosis of ADHD in groups of people that they are already seeing. The recommendations \nmay increase the rates of diagnosis and referral for ADHD, but these should be accurate \nand therefore appropriate. \nReturn to recommendations \nInformation and support \nRecommendations 1.4.1 to 1.4.13 \nWhy the committee made the recommendations \nGood information and support tailored to needs and circumstances are important for all \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 41,
+      "document_name": "ADHD.pdf",
+      "page_number": 42,
+      "citation": "ADHD.pdf:p42",
+      "section": "recommendation was needed to raise awareness of these groups among non-specialists",
+      "chunk_id": "ADHD-p42-c0068"
+    }
+  },
+  {
+    "page_content": "people using NHS services, but some aspects are particularly important for people with \nADHD. Evidence identified the need for information tailored to family circumstances, \nparticularly when a child has ADHD, and to highlight the importance of daily structure for \nadults with ADHD. \nEvidence showed the importance of discussing key areas following a diagnosis of ADHD, \nparticularly the positive impacts of receiving a diagnosis, such as improving understanding \nof symptoms. The committee used the evidence and their experience to agree other areas \nfor discussion, including driving and possible issues with education and employment. They \nnoted that schools, colleges and universities may sometimes question a diagnosis of \nADHD and not understand how symptoms can affect daily functioning. In addition, \nhealthcare professionals treating a coexisting condition may not be aware of how ADHD \nsymptoms may affect behaviour (organisation and time management) and adherence to \ntreatment. \nThere was evidence that parents of children with ADHD often feel a sense of isolation \nwhen attending parent-training programmes. The committee agreed that healthcare \nprofessionals should explain to parents that an invitation to attend a parent-training \nprogramme does not imply bad parenting. The committee discussed the difficulties in \nfamilies where parents may also have ADHD and made a recommendation to remind \nhealthcare professionals that these families may need extra support. \nIn the committee's experience, people who are assessed for ADHD but not given a formal",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 42,
+      "document_name": "ADHD.pdf",
+      "page_number": 43,
+      "citation": "ADHD.pdf:p43",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p43-c0069"
+    }
+  },
+  {
+    "page_content": "ogramme does not imply bad parenting. The committee discussed the difficulties in \nfamilies where parents may also have ADHD and made a recommendation to remind \nhealthcare professionals that these families may need extra support. \nIn the committee's experience, people who are assessed for ADHD but not given a formal \ndiagnosis are a neglected group who would benefit from advice on where to get support \nfor troublesome symptoms. \nHow the recommendations might affect practice \nThe recommendations should reflect good current practice. Healthcare professionals may \nspend more time discussing the potential impacts of a diagnosis, but this is likely to mean \nimproved quality of life for the person with ADHD and better management of their \nsymptoms. \nReturn to recommendations \nManaging ADHD – planning treatment \nRecommendations 1.5.1 to 1.5.6 \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 42,
+      "document_name": "ADHD.pdf",
+      "page_number": 43,
+      "citation": "ADHD.pdf:p43",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p43-c0070"
+    }
+  },
+  {
+    "page_content": "Why the committee made the recommendations \nEvidence showed the importance of joint decision-making when planning treatment; \nparticularly important was the discussion before starting treatment. This was also the \ncommittee's experience and they recommended that these discussions should be \nrepeated throughout care. \nThe committee recommended key areas highlighted in the evidence that should be \ndiscussed with the person and their family before starting treatment. This included the \nbenefits and harms of medications and consideration of these alongside other treatment \nchoices. \nIn the committee's experience, other mental health and neurodevelopmental conditions \nmay affect treatment choices and how successful these are. The committee emphasised \nthe importance of a holistic approach to managing ADHD. \nEvidence indicated that parents and carers of children with ADHD found it hard to make \ndecisions about treatment and wanted time to think about the effect of any environmental \nmodifications. The committee recognised that systematic use of environmental \nmodifications is important for limiting the impact of ADHD symptoms. The committee \nagreed that the effect of environmental modifications should be reviewed and taken into \naccount when considering other treatment options. The committee also recognised the \nimportance of having the opportunity to regularly revisit and discuss earlier decisions and \nso recommended that healthcare professionals remind people that they can do this if they \nwish.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 43,
+      "document_name": "ADHD.pdf",
+      "page_number": 44,
+      "citation": "ADHD.pdf:p44",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p44-c0071"
+    }
+  },
+  {
+    "page_content": "fications should be reviewed and taken into \naccount when considering other treatment options. The committee also recognised the \nimportance of having the opportunity to regularly revisit and discuss earlier decisions and \nso recommended that healthcare professionals remind people that they can do this if they \nwish. \nThe committee acknowledged that it is important to include children and young people in \nany treatment discussions and recommended they should be encouraged to say how they \nfeel. This should include their views on the aims and effect of any treatments. Healthcare \nprofessionals should be aware that these will change as the child matures and will need \nrevisiting. The committee also recognised that it was important that young people and \nadults should have as much support as they need and should be asked if they would like \nsomeone to join discussions about treatment. Decisions around treatment can have many \ninfluences, including teachers, peers and the media. \nHow the recommendations might affect practice \nThe recommendations should reflect good current practice. Where practice might change, \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 43,
+      "document_name": "ADHD.pdf",
+      "page_number": 44,
+      "citation": "ADHD.pdf:p44",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p44-c0072"
+    }
+  },
+  {
+    "page_content": "it is predominantly the approach to care that will be affected. \nReturn to recommendations \nManaging ADHD – children under 5 years \nRecommendations 1.5.7 to 1.5.9 \nWhy the committee made the recommendations \nIn a very young child, the impact of ADHD symptoms on behaviour is assessed across \ndifferent settings. Evidence showed a clinically important benefit on some measures of \nsymptoms of an ADHD-focused group parent-training programme for children under \n5 years. There was limited evidence on the efficacy of medication, and because of \nconcerns and lack of evidence about the long-term effects of medication in very young \nchildren, particularly in terms of growth and development, the committee agreed to \nrecommend a group-based parent-training programme as first-line treatment. However, \nthe committee agreed that untreated ADHD can have far-reaching, long-lasting negative \nimpacts on a child's life and some children may still have a significant impairment after the \nprogramme and environmental modifications. For these exceptional circumstances, the \ncommittee drew on their experience to recommend that healthcare professionals should \nseek further specialist advice, ideally from a tertiary service. \nHow the recommendations might affect practice \nThe recommendations reflect good current practice and do not indicate a change in \npractice from the 2008 recommendations. \nReturn to recommendations \nManaging ADHD – children aged 5 years and over \nand young people \nRecommendations 1.5.10 to 1.5.14 \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 44,
+      "document_name": "ADHD.pdf",
+      "page_number": 45,
+      "citation": "ADHD.pdf:p45",
+      "section": "5 years. There was limited evidence on the efficacy of medication, and because of",
+      "chunk_id": "ADHD-p45-c0073"
+    }
+  },
+  {
+    "page_content": "commendations reflect good current practice and do not indicate a change in \npractice from the 2008 recommendations. \nReturn to recommendations \nManaging ADHD – children aged 5 years and over \nand young people \nRecommendations 1.5.10 to 1.5.14 \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 44,
+      "document_name": "ADHD.pdf",
+      "page_number": 45,
+      "citation": "ADHD.pdf:p45",
+      "section": "5 years. There was limited evidence on the efficacy of medication, and because of",
+      "chunk_id": "ADHD-p45-c0074"
+    }
+  },
+  {
+    "page_content": "Why the committee made the recommendations \nThe committee discussed evidence on non-pharmacological interventions and evidence \non medication for managing ADHD in children and young people. \nEvidence indicated that some parents and carers of children aged 5 years and over and \nyoung people can benefit from group support. After discussion of current good practice \nand consideration of the balance of benefits and costs, the committee decided to \nrecommend offering additional support that could be group-based ADHD-focused support \nand as few as 1 or 2 sessions for parents and carers of all children and young people with \nADHD. \nEvidence showed the benefit of medication in this age group in improving ADHD \nsymptoms and this was in line with the committee's experience. The committee \nacknowledged there are concerns about recommending medication for ADHD and \nparticularly the uncertainty over the long-term adverse effects of medication in growing \nchildren. However, the committee agreed that untreated ADHD can have far-reaching, \nlong-lasting negative impacts on a child or young person's life (for example, affecting \nacademic performance, interpersonal relationships, work, personal issues, substance use \nand driving). Medication offers a better balance of benefits and costs than non-\npharmacological interventions, so the committee agreed to recommend it when ADHD \nsymptoms are persistent and still causing a significant impairment in at least one domain \nof everyday life despite the implementation and review of environmental modifications.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 45,
+      "document_name": "ADHD.pdf",
+      "page_number": 46,
+      "citation": "ADHD.pdf:p46",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p46-c0075"
+    }
+  },
+  {
+    "page_content": "on offers a better balance of benefits and costs than non-\npharmacological interventions, so the committee agreed to recommend it when ADHD \nsymptoms are persistent and still causing a significant impairment in at least one domain \nof everyday life despite the implementation and review of environmental modifications. \nThe committee was aware of the implications of medication in this young population and \nmade several recommendations to ensure its responsible use. These include \nrecommendations on: \n• checking that environmental modifications have been done before starting medication \n• carrying out a thorough baseline assessment \n• ensuring that medication is initiated only by healthcare professionals with training and \nexpertise in diagnosing and managing ADHD \n• early review of medication to optimise its use (including checking for adverse effects) \n• regular review to ensure that medication is continued only for as long as it is needed \n• offering ADHD-focused support for all children and young people with ADHD. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 45,
+      "document_name": "ADHD.pdf",
+      "page_number": 46,
+      "citation": "ADHD.pdf:p46",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p46-c0076"
+    }
+  },
+  {
+    "page_content": "These recommendations are in the sections on planning treatment, baseline assessment, \ncare arrangements and review. \nCombining a full parent-training programme with medication did not offer a good balance \nof benefits and costs for all children and young people in this age group, so the committee \ndecided not to make a recommendation on this. \nSome evidence showed a benefit of cognitive behavioural therapy (CBT) in young people \nwith ADHD. The committee agreed that this should be considered when a young person \nhas benefited from medication but still has symptoms that are causing a significant \nimpairment. They used their experience to recommend areas that a programme should \naddress. \nHow the recommendations might affect practice \nThe 2018 recommendations ensure that parents and carers of all children and young \npeople with ADHD receive ADHD-focused information and support. Children and young \npeople aged 5 years and over are offered medication by a healthcare professional with \ntraining and expertise in diagnosing and managing ADHD only if ADHD symptoms are still \ncausing a significant impairment in at least one domain of their everyday life despite \nimplementation of environmental modifications. This choice follows discussion with the \nchild or young person and their parents or carers and a full baseline assessment. The \nrecommendations make it clear that where a child has symptoms of oppositional defiant \ndisorder or conduct disorder, parents and carers should be offered a parent-training",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 46,
+      "document_name": "ADHD.pdf",
+      "page_number": 47,
+      "citation": "ADHD.pdf:p47",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p47-c0077"
+    }
+  },
+  {
+    "page_content": "tal modifications. This choice follows discussion with the \nchild or young person and their parents or carers and a full baseline assessment. The \nrecommendations make it clear that where a child has symptoms of oppositional defiant \ndisorder or conduct disorder, parents and carers should be offered a parent-training \nprogramme in line with the recommendations in NICE's guideline on antisocial behaviour \nand conduct disorders. \nThe current categorisation of ADHD focuses on the presence of significant impairment in \nthe different domains of everyday life and across settings, rather than using the previously \nused terms of mild, moderate and severe ADHD. There is considerable overlap with the \nguideline population described in the 2008 recommendation. The 2018 recommendations \nreflect current practice and are unlikely to result in a substantial increase in prescribing \nand resource use. \nReturn to recommendations \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 46,
+      "document_name": "ADHD.pdf",
+      "page_number": 47,
+      "citation": "ADHD.pdf:p47",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p47-c0078"
+    }
+  },
+  {
+    "page_content": "Managing ADHD – adults \nRecommendations 1.5.15 to 1.5.18 \nWhy the committee made the recommendations \nEvidence directly comparing medication with non-pharmacological treatment supported \nthe use of medication for first-line treatment of ADHD in adults. The committee \nacknowledged there are concerns about recommending medication for ADHD and in \nparticular the uncertainty over the long-term benefits and the adverse effects of \nmedication. However, the committee agreed that untreated ADHD can have a negative \nimpact on a person's life, with lower educational attainment, and higher criminality. So they \nagreed to recommend medication when ADHD symptoms are still causing a significant \nimpairment in at least one domain of everyday life despite environmental modifications. \nEvidence indicated a benefit of non-pharmacological treatment, although this was less \nthan for medication. There was also evidence of the importance of offering a choice of \ntreatments, so the committee agreed that non-pharmacological treatment should be \nconsidered for adults who have made an informed choice not to have medication, have \ndifficulty adhering to medication or have found they cannot tolerate medication or it is \nineffective. Based on their experience, the committee recommended that the treatment \nmay include elements of or a full programme of CBT and should include a structured \nsupportive psychological intervention focused on ADHD, with regular follow‑up and \ninformation. \nCombining medication with non-pharmacological treatment did not offer the best balance",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 47,
+      "document_name": "ADHD.pdf",
+      "page_number": 48,
+      "citation": "ADHD.pdf:p48",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p48-c0079"
+    }
+  },
+  {
+    "page_content": "nce, the committee recommended that the treatment \nmay include elements of or a full programme of CBT and should include a structured \nsupportive psychological intervention focused on ADHD, with regular follow‑up and \ninformation. \nCombining medication with non-pharmacological treatment did not offer the best balance \nof benefits and costs, so the committee decided that combination treatment should only \nbe considered when medication has offered some benefit but symptoms continue to \ncause a significant impairment. \nHow the recommendations might affect practice \nThe recommendations reflect good current practice. \nReturn to recommendations \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 47,
+      "document_name": "ADHD.pdf",
+      "page_number": 48,
+      "citation": "ADHD.pdf:p48",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p48-c0080"
+    }
+  },
+  {
+    "page_content": "Medication – care arrangements \nRecommendations 1.7.2 and 1.7.29 \nWhy the committee made the recommendations \nThe committee discussed the roles of different healthcare professionals in initiating, \nmonitoring and reviewing medication. They agreed, based on their experience, that \nmedication should only be initiated and titrated by a healthcare professional with training \nand expertise in diagnosing and managing ADHD. But after dose stabilisation, prescribing \nand monitoring should be carried out under Shared Care Protocol arrangements with \nprimary care. The exact balance between primary and secondary care will vary depending \non the circumstances of the person with ADHD and the available primary and secondary \ncare services. \nHow the recommendations might affect practice \nThe recommendations reflect good current practice. \nReturn to recommendations 1.7.2 and 1.7.29 \nMedication – baseline assessment \nRecommendations 1.7.4 to 1.7.6 \nWhy the committee made the recommendations \nThe committee noted that it is important to carry out a baseline assessment before \nstarting ADHD medication. Evidence was limited on what should be assessed clinically, but \nthe committee used their experience and expert advice to recommend a general review of \nhealth and social circumstances, and a review of physical health. The committee used \ntheir experience to outline criteria for referral for a cardiologist opinion. \nHow the recommendations might affect practice \nThe recommendations reflect good current practice. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 48,
+      "document_name": "ADHD.pdf",
+      "page_number": 49,
+      "citation": "ADHD.pdf:p49",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p49-c0081"
+    }
+  },
+  {
+    "page_content": "ircumstances, and a review of physical health. The committee used \ntheir experience to outline criteria for referral for a cardiologist opinion. \nHow the recommendations might affect practice \nThe recommendations reflect good current practice. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 48,
+      "document_name": "ADHD.pdf",
+      "page_number": 49,
+      "citation": "ADHD.pdf:p49",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p49-c0082"
+    }
+  },
+  {
+    "page_content": "Return to recommendations \nMedication – choice \nRecommendations 1.7.7 to 1.7.19 \nWhy the committee made the recommendations \nEvidence showed a clinically important benefit for monotherapy with the stimulants \nmethylphenidate and lisdexamfetamine compared with placebo or other drugs. This was \nsupported by the committee's experience that stimulants work more quickly than non-\nstimulant drugs (for example, atomoxetine and guanfacine), which can take longer to have \nan effect. The committee used the evidence, their experience and the drug licensing to \nrecommend methylphenidate as a treatment for children aged 5 years and over and young \npeople, and lisdexamfetamine or methylphenidate as a treatment for adults. \nThe committee acknowledged the rising cost of dexamfetamine since 2008 and agreed \nthat it should only be considered when lisdexamfetamine is effective but the longer effect \nprofile is not well tolerated. \nThe committee agreed that if methylphenidate has not been effective for children aged \nover 5 years and young people, then lisdexamfetamine could be considered. \nAtomoxetine and guanfacine were the non-stimulant drugs with the most convincing \nevidence. The committee noted that atomoxetine is more widely used and that there was \nstronger evidence for a benefit of atomoxetine compared with placebo than guanfacine \ncompared with placebo. One trial directly comparing atomoxetine with guanfacine \ngenerally showed a clinically important benefit of guanfacine. Taking into account the",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 49,
+      "document_name": "ADHD.pdf",
+      "page_number": 50,
+      "citation": "ADHD.pdf:p50",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p50-c0083"
+    }
+  },
+  {
+    "page_content": "e noted that atomoxetine is more widely used and that there was \nstronger evidence for a benefit of atomoxetine compared with placebo than guanfacine \ncompared with placebo. One trial directly comparing atomoxetine with guanfacine \ngenerally showed a clinically important benefit of guanfacine. Taking into account the \nlicensing status of these drugs and the familiarity of most healthcare professionals with \nthem, the committee recommended that in children aged 5 years and over and young \npeople, either drug could be offered after intolerance or a lack of response to stimulants \n(methylphenidate and lisdexamfetamine). Because guanfacine is not licensed for use in \nadults and there was no evidence specifically supporting its use in this population, the \ncommittee recommended atomoxetine for adults with intolerance or a lack of response to \nstimulants. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 49,
+      "document_name": "ADHD.pdf",
+      "page_number": 50,
+      "citation": "ADHD.pdf:p50",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p50-c0084"
+    }
+  },
+  {
+    "page_content": "Further medication choices \nThere was not enough evidence to justify specific recommendations for other drugs so the \ncommittee recommended that after at least one stimulant and non-stimulant had been \ntried, healthcare professionals should obtain a second opinion or refer to a tertiary service. \nMedication choice for people with coexisting conditions \nThere was very little evidence on medication choice for people with ADHD and coexisting \nconditions and so the committee made research recommendations to address this gap. \nThe committee agreed that neither the available evidence nor their experience justified a \ndifferent choice of ADHD medication for people with ADHD and coexisting conditions, but \nthere should be careful consideration of drug interactions and baseline assessments, \nslower titration, more careful monitoring and recording of adverse effects, and regular \nweekly telephone contact. However, the committee recommended that ADHD medication \nshould be stopped in people experiencing a psychotic episode because they agreed that \nADHD medication could worsen psychotic symptoms. \nHow the recommendations might affect practice \nThe recommendations reflect good current practice. \nReturn to recommendations \nMedication – considerations when prescribing and \ndose titration \nRecommendations 1.7.20 to 1.7.28 \nWhy the committee made the recommendations \nThe committee discussed that the careful initiation of ADHD medication is key to a \nsuccessful treatment plan. This includes starting and titrating medication according to the",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 50,
+      "document_name": "ADHD.pdf",
+      "page_number": 51,
+      "citation": "ADHD.pdf:p51",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p51-c0085"
+    }
+  },
+  {
+    "page_content": "edication – considerations when prescribing and \ndose titration \nRecommendations 1.7.20 to 1.7.28 \nWhy the committee made the recommendations \nThe committee discussed that the careful initiation of ADHD medication is key to a \nsuccessful treatment plan. This includes starting and titrating medication according to the \nBNF or the BNF for Children and the person's tolerance until the dose is optimised \n(reduced symptoms, positive behaviour change, improvements in education, employment \nand relationships, and tolerable adverse effects). The committee agreed that healthcare \nprofessionals should be aware of the pharmacokinetic profiles of ADHD medication \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 50,
+      "document_name": "ADHD.pdf",
+      "page_number": 51,
+      "citation": "ADHD.pdf:p51",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p51-c0086"
+    }
+  },
+  {
+    "page_content": "because preparations can vary in their profiles. This is important when considering which \nmedication or formulation to prescribe. \nHow the recommendations might affect practice \nThe recommendations reflect good current practice. \nReturn to recommendations \nMedication – monitoring effectiveness and adverse \neffects \nRecommendations 1.8.1 to 1.8.19 \nWhy the committee made the recommendations \nEvidence showed clinically important differences in sleep disturbance, decreased appetite \nand weight changes in people taking ADHD medication. In the committee's experience, \nthese are some of the most troublesome adverse effects. Because of concerns about \ndecreased appetite and weight change, the committee advised that weight should be \nchecked every 3 months in children aged 10 years and under, and at least every 6 months \nin older children and young people; BMI should be monitored in adults. The committee \nrecommended that changes in sleep pattern should be recorded and medication adjusted \naccordingly. \nThere was some evidence that people on atomoxetine may experience sexual dysfunction, \nin particular erectile dysfunction, and the committee agreed that this should be monitored. \nHow the recommendations might affect practice \nThe committee noted that the recommendations will reinforce current best practice. \nReturn to recommendations \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 51,
+      "document_name": "ADHD.pdf",
+      "page_number": 52,
+      "citation": "ADHD.pdf:p52",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p52-c0087"
+    }
+  },
+  {
+    "page_content": "Adherence to treatment \nRecommendations 1.9.1 to 1.9.6 \nWhy the committee made the recommendations \nThe evidence identified several factors that affect adherence to treatment and these were \nsupported by the committee's own experience. \nThe evidence highlighted time management and forgetfulness as particular issues, so the \ncommittee made a recommendation that healthcare professionals should be aware that \npeople with ADHD may have problems remembering to order and collect medication. The \ncommittee provided examples of how healthcare professionals might encourage people to \nfollow strategies that support adherence (for example, following clear instructions and \nusing visual reminders). \nA common worry about treatment is that it might change personality and the committee \nagreed that this could affect adherence to both medication and non-pharmacological \ntreatments. Misconceptions about the effects of treatment and worries about adverse \neffects were common themes identified, and the committee agreed that it was important \nthat healthcare professionals address these. \nEvidence identified that the attitudes of people close to a person with ADHD can influence \nadherence. The committee agreed that it was important that although children and young \npeople should take responsibility for their own health (including taking medication), \nparents and carers should oversee them. \nThe committee discussed that adherence to non-pharmacological treatment was an \nimportant issue that was rarely addressed. They used their own experience to recommend",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 52,
+      "document_name": "ADHD.pdf",
+      "page_number": 53,
+      "citation": "ADHD.pdf:p53",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p53-c0088"
+    }
+  },
+  {
+    "page_content": "ugh children and young \npeople should take responsibility for their own health (including taking medication), \nparents and carers should oversee them. \nThe committee discussed that adherence to non-pharmacological treatment was an \nimportant issue that was rarely addressed. They used their own experience to recommend \nthat healthcare professionals discuss the commitment, time and organisational skills \nneeded for successful adherence to non-pharmacological treatment. \nHow the recommendations might affect practice \nThe committee noted that the recommendations will reinforce current best practice. \nReturn to recommendations \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 52,
+      "document_name": "ADHD.pdf",
+      "page_number": 53,
+      "citation": "ADHD.pdf:p53",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p53-c0089"
+    }
+  },
+  {
+    "page_content": "Review of medication and discontinuation \nRecommendations 1.10.1 to 1.10.3 \nWhy the committee made the recommendations \nEvidence identified concerns around lack of follow‑up and the opportunity to review \nmedication choices and this was supported by the committee's experience. They agreed \nthat a yearly review with an ADHD specialist should be a comprehensive assessment that \nrevisits the areas discussed when starting treatment but also the effect of current \ntreatment. This would ensure that decisions around continuing or stopping treatment are \nfully informed. \nLimited evidence showed possible worsening of ADHD symptoms on stopping medication \nbut supported a reduction in adverse effects after withdrawal. The committee used their \nexperience to make a recommendation on emphasising the importance of assessing the \noverall benefits and harms of medication as part of a review. The committee agreed that it \nwas important to highlight the elements of a medication review that are important for \nsomeone with ADHD; they based the elements on evidence on adverse effects of \nmedication, management of treatment, adherence and information and support. \nHow the recommendations might affect practice \nThe committee noted that the recommendations will reinforce current best practice. \nReturn to recommendations \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 53,
+      "document_name": "ADHD.pdf",
+      "page_number": 54,
+      "citation": "ADHD.pdf:p54",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p54-c0090"
+    }
+  },
+  {
+    "page_content": "Putting this guideline into practice \nNICE has produced tools and resources to help you put this guideline into practice. \nPutting recommendations into practice can take time. How long may vary from guideline to \nguideline, and depends on how much change in practice or services is needed. \nImplementing change is most effective when aligned with local priorities. \nChanges recommended for clinical practice that can be done quickly – like changes in \nprescribing practice – should be shared quickly. This is because healthcare professionals \nshould use guidelines to guide their work – as is required by professional regulating bodies \nsuch as the General Medical and Nursing and Midwifery Councils. \nChanges should be implemented as soon as possible, unless there is a good reason for not \ndoing so (for example, if it would be better value for money if a package of \nrecommendations were all implemented at once). \nDifferent organisations may need different approaches to implementation, depending on \ntheir size and function. Sometimes individual practitioners may be able to respond to \nrecommendations to improve their practice more quickly than large organisations. \nHere are some pointers to help organisations put NICE guidelines into practice: \n1. Raise awareness through routine communication channels, such as email or \nnewsletters, regular meetings, internal staff briefings and other communications with all \nrelevant partner organisations. Identify things staff can include in their own practice \nstraight away.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 54,
+      "document_name": "ADHD.pdf",
+      "page_number": 55,
+      "citation": "ADHD.pdf:p55",
+      "section": "1. Raise awareness through routine communication channels, such as email or",
+      "chunk_id": "ADHD-p55-c0091"
+    }
+  },
+  {
+    "page_content": "anisations put NICE guidelines into practice: \n1. Raise awareness through routine communication channels, such as email or \nnewsletters, regular meetings, internal staff briefings and other communications with all \nrelevant partner organisations. Identify things staff can include in their own practice \nstraight away. \n2. Identify a lead with an interest in the topic to champion the guideline and motivate \nothers to support its use and make service changes, and to find out any significant issues \nlocally. \n3. Carry out a baseline assessment against the recommendations to find out whether \nthere are gaps in current service provision. \n4. Think about what data you need to measure improvement and plan how you will collect \nit. You may want to work with other health and social care organisations and specialist \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 54,
+      "document_name": "ADHD.pdf",
+      "page_number": 55,
+      "citation": "ADHD.pdf:p55",
+      "section": "1. Raise awareness through routine communication channels, such as email or",
+      "chunk_id": "ADHD-p55-c0092"
+    }
+  },
+  {
+    "page_content": "groups to compare current practice with the recommendations. This may also help identify \nlocal issues that will slow or prevent implementation. \n5. Develop an action plan, with the steps needed to put the guideline into practice, and \nmake sure it is ready as soon as possible. Big, complex changes may take longer to \nimplement, but some may be quick and easy to do. An action plan will help in both cases. \n6. For very big changes include milestones and a business case, which will set out \nadditional costs, savings and possible areas for disinvestment. A small project group could \ndevelop the action plan. The group might include the guideline champion, a senior \norganisational sponsor, staff involved in the associated services, finance and information \nprofessionals. \n7. Implement the action plan with oversight from the lead and the project group. Big \nprojects may also need project management support. \n8. Review and monitor how well the guideline is being implemented through the project \ngroup. Share progress with those involved in making improvements, as well as relevant \nboards and local partners. \nNICE provides a comprehensive programme of support and resources to maximise uptake \nand use of evidence and guidance. See our into practice pages for more information. \nAlso see Leng G, Moore V, Abraham S, editors (2014) Achieving high quality care – \npractical experience from NICE. Chichester: Wiley. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 55,
+      "document_name": "ADHD.pdf",
+      "page_number": 56,
+      "citation": "ADHD.pdf:p56",
+      "section": "5. Develop an action plan, with the steps needed to put the guideline into practice, and",
+      "chunk_id": "ADHD-p56-c0093"
+    }
+  },
+  {
+    "page_content": "Context \nAttention deficit hyperactivity disorder (ADHD) is a heterogeneous disorder characterised \nby the core symptoms of hyperactivity, impulsivity and inattention, which are judged \nexcessive for the person's age or level of overall development. The diagnosis is made on \nthe basis of observed and reported behavioural symptoms. Two main diagnostic systems \nare in current use, the International Classification of Mental and Behavioural Disorders 10th \nrevision (ICD‑10) and the Diagnostic and Statistical Manual of Mental Disorders 5th edition \n(DSM‑5). Both systems require that symptoms are present in several settings such as \nschool/work, home life and leisure activities. Symptoms should be evident in early life, if \nonly in retrospect; for ICD‑10, by age 7 years and for DSM‑5, by age 12 years. ADHD may \npersist into adult life. \nPrevalence rates for ICD‑10 (identifying hyperkinetic disorder) are 1 to 2% in childhood. \nUnder the previous, less stringent DSM‑IV criteria, childhood prevalence rates were \n3 to 9% and these may increase under the new DSM‑5 criteria. \nThe causes of ADHD are not fully understood but a number of risk factors are associated \nwith the condition. Genetic factors can have an influence, with family members frequently \naffected. The diagnosis of ADHD in older family members such as parents may have \npreviously been missed and should be considered. \nBoth the ICD‑10 and DSM‑5 require the presence of functional impairment due to \nsymptoms of ADHD, with the symptoms adversely affecting psychological, social and/or",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 56,
+      "document_name": "ADHD.pdf",
+      "page_number": 57,
+      "citation": "ADHD.pdf:p57",
+      "section": "3 to 9% and these may increase under the new DSM‑5 criteria.",
+      "chunk_id": "ADHD-p57-c0094"
+    }
+  },
+  {
+    "page_content": "y members frequently \naffected. The diagnosis of ADHD in older family members such as parents may have \npreviously been missed and should be considered. \nBoth the ICD‑10 and DSM‑5 require the presence of functional impairment due to \nsymptoms of ADHD, with the symptoms adversely affecting psychological, social and/or \neducational/occupational functioning. The impact of ADHD may vary considerably in its \nseverity, which is best judged by considering the level of impairment, pervasiveness, and \nfamilial and social context. For some people, symptoms may be limited to certain settings \nand cause minimal impairment in a limited number of domains (for example, ability to \ncomplete schoolwork, work tasks, avoiding common hazards and forming positive \ninterpersonal relationships). In other people, multiple symptom areas (hyperactivity, \ninattention and impulsivity) are present in multiple settings, and this causes significant \nimpairment across multiple domains. Symptoms and impact can also change over time. For \nsome people, symptoms and impairment may be reduced through environmental \nmodifications, such as a modified school curriculum or choice of employment. \nSymptoms of ADHD can overlap with those of other related disorders. Therefore, care in \ndifferential diagnosis is needed. ADHD may also coexist with other disorders. Common \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 56,
+      "document_name": "ADHD.pdf",
+      "page_number": 57,
+      "citation": "ADHD.pdf:p57",
+      "section": "3 to 9% and these may increase under the new DSM‑5 criteria.",
+      "chunk_id": "ADHD-p57-c0095"
+    }
+  },
+  {
+    "page_content": "coexisting conditions in children include disorders of mood, conduct, learning, motor \ncontrol, language and communication, and anxiety disorders; in adults, they include \npersonality disorders, bipolar disorder, obsessive-compulsive disorder and substance \nmisuse. Where there are coexisting conditions, it is important to try to differentiate the \nlevel of impairment due to ADHD, because this will guide the treatment plan. In addition, \nADHD is under-recognised in some populations, which can mean that a lack of appropriate \ndiagnosis and treatment adversely affects people's quality of life. \nThe aim of this guideline is to raise awareness of populations at risk and to provide clear \nadvice on managing ADHD. \nThe guideline covers children under 5 years, children and young people aged 5 to 17 years, \nand adults aged 18 years or over who are at risk of ADHD or have a diagnosis of ADHD. \nThe guideline covers all primary, secondary and community care settings in which NHS-\nfunded care is provided for people with ADHD. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 57,
+      "document_name": "ADHD.pdf",
+      "page_number": 58,
+      "citation": "ADHD.pdf:p58",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p58-c0096"
+    }
+  },
+  {
+    "page_content": "Finding more information and committee \ndetails \nTo find NICE guidance on related topics, including guidance in development, see the NICE \ntopic page on mental health and behavioural conditions. \nFor full details of the evidence and the guideline committee's discussions, see the \nevidence reviews. You can also find information about how the guideline was developed, \nincluding details of the committee. \nNICE has produced tools and resources to help you put this guideline into practice. For \ngeneral help and advice on putting NICE guidelines into practice, see resources to help \nyou put guidance into practice. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 58,
+      "document_name": "ADHD.pdf",
+      "page_number": 59,
+      "citation": "ADHD.pdf:p59",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p59-c0097"
+    }
+  },
+  {
+    "page_content": "Update information \nSeptember 2019: Recommendation 1.7.4 was amended to indicate that an \nelectrocardiogram is not needed before starting stimulants, atomoxetine or guanfacine if \ncardiovascular history and examination are normal and the person is not on medicine that \nposes an increased cardiovascular risk. The corresponding rationale section was also \nupdated to reflect this change. This recommendation is marked [2018, amended 2019]. \nApril 2018: Following publication, some amendments were made to recommendations \n1.5.10, 1.5.12, 1.5.13, 1.7.4, 1.7.7 and 1.8.14 and the related rationale and impact sections to \nclarify their meaning. Information about the marketing authorisation for methylphenidate \nwas also added to recommendation 1.7.11. \nMarch 2018: This guideline updates and replaces NICE guideline CG72 (published \nSeptember 2008). \nNew recommendations have been added on recognition, information and support, \nmanaging attention deficit hyperactivity disorder (ADHD; including non-pharmacological \ntreatment), medication, follow‑up and monitoring, adherence, and review of medication \nand discontinuation. \nThese are marked as [2018]. \nWe also made some changes without an evidence review: \n• We have clarified the names of services. \n• We have added cross-references to NICE guidelines on transition from children's to \nadults' services and antisocial behaviour and conduct disorders in children and young \npeople. \n• We have clarified that any support for parents and carers before a formal diagnosis \nshould be group-based and ADHD focused.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 59,
+      "document_name": "ADHD.pdf",
+      "page_number": 60,
+      "citation": "ADHD.pdf:p60",
+      "section": "1.5.10, 1.5.12, 1.5.13, 1.7.4, 1.7.7 and 1.8.14 and the related rationale and impact sections to",
+      "chunk_id": "ADHD-p60-c0098"
+    }
+  },
+  {
+    "page_content": "ervices. \n• We have added cross-references to NICE guidelines on transition from children's to \nadults' services and antisocial behaviour and conduct disorders in children and young \npeople. \n• We have clarified that any support for parents and carers before a formal diagnosis \nshould be group-based and ADHD focused. \n• We have made changes to reflect the most recent version of DSM. \nThese are marked [2008, amended 2018]. \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 59,
+      "document_name": "ADHD.pdf",
+      "page_number": 60,
+      "citation": "ADHD.pdf:p60",
+      "section": "1.5.10, 1.5.12, 1.5.13, 1.7.4, 1.7.7 and 1.8.14 and the related rationale and impact sections to",
+      "chunk_id": "ADHD-p60-c0099"
+    }
+  },
+  {
+    "page_content": "Minor changes since publication \nMay 2025: We added a link to relevant HealthTech guidance in the section on diagnosis. \nJanuary 2023: We have updated recommendation 1.2.1 because ADHD is now recognised \nas a neurodevelopmental disorder and recommendation 1.3.3 to update ICD-10 to ICD-11. \nMarch 2022: We clarified that recommendation 1.7.22 only covers preparations of \nmethylphenidate. \nISBN: 978-1-4731-2830-9 \nAttention deficit hyperactivity disorder: diagnosis and management (NG87)\n\nconditions#notice-of-rights).",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\ADHD.pdf",
+      "page": 60,
+      "document_name": "ADHD.pdf",
+      "page_number": 61,
+      "citation": "ADHD.pdf:p61",
+      "section": "Unspecified section",
+      "chunk_id": "ADHD-p61-c0100"
+    }
+  },
+  {
+    "page_content": "Parenting a Child with ADHD\nWhile ADHD is believed to be hereditary, effectively managing your child’s \nsymptoms can affect both the severity of the disorder and development of \nmore serious problems over time. Early intervention holds the key to positive \noutcomes for your child. The earlier you address your child’s problems, the \nmore likely you will be able to prevent school and social failure and associated \nproblems such as underachievement \nand poor self-esteem that may lead \nto delinquency or drug and alcohol \nabuse. Although life with your child \nmay at times seem challenging, as a \nparent you can help create home and \nschool environments that improve \nyour child’s chances for success. \nHere are some ways to get \nstarted.\nDon’t waste your limited \nemotional energy on self-blame. \nADHD is a disorder in certain areas \nof the brain and is inherited in the \nmajority of cases. It is not caused \nby poor parenting or a chaotic \nhome environment, although the \nhome environment can make the \nsymptoms of ADHD better or worse. \nLearn all you can about ADHD. \nWhile a great deal of information \non the diagnosis and treatment of ADHD is available, not all of it is accurate or \nbased on scientific evidence. It is up to you to be a good consumer and learn to \ndistinguish the accurate information from the inaccurate. How can you sort out \nwhat will be useful and what will not? In general, it is good to be wary about ads \nclaiming to cure ADHD. Currently, there is no cure for ADHD, but you can take \npositive steps to decrease its impact. In addition, pay attention to the source of",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 0,
+      "document_name": "parenting2015.pdf",
+      "page_number": 1,
+      "citation": "parenting2015.pdf:p1",
+      "section": "Parenting a Child with ADHD",
+      "chunk_id": "parenting2015-p1-c0001"
+    }
+  },
+  {
+    "page_content": "uish the accurate information from the inaccurate. How can you sort out \nwhat will be useful and what will not? In general, it is good to be wary about ads \nclaiming to cure ADHD. Currently, there is no cure for ADHD, but you can take \npositive steps to decrease its impact. In addition, pay attention to the source of \nthe information. If you’re using the Internet, stick with reputable websites such \nas government, nonprofit (such as CHADD) or university resources.\nMake sure your child has a comprehensive assessment. To complete the \ndiagnostic process, make sure your child has a comprehensive assessment \nthat includes medical, educational and psychological evaluations (involving \ninput from your child’s teacher) and that other disorders that either mimic or \ncommonly occur with ADHD have been considered and ruled out. \nHow to help your child succeed at school\nBecome an effective case manager. Keep a record of all information about your \nchild. This includes copies of all report cards, teacher notes, disciplinary reports, \nevaluations and documents from any meetings concerning your child. You might \nalso include information about ADHD, a record of your child’s prior treatments \nand placements, and contact information for the professionals who have worked \nwith your child.\nForm a team that understands ADHD and be the team captain. Meetings \nat your child’s school should be attended by the principal’s designee as well \nWhile a great deal \nof information on \nthe diagnosis and \ntreatment of ADHD is \navailable, not all of it \nis accurate or based \non scientific evidence.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 0,
+      "document_name": "parenting2015.pdf",
+      "page_number": 1,
+      "citation": "parenting2015.pdf:p1",
+      "section": "Parenting a Child with ADHD",
+      "chunk_id": "parenting2015-p1-c0002"
+    }
+  },
+  {
+    "page_content": "with your child.\nForm a team that understands ADHD and be the team captain. Meetings \nat your child’s school should be attended by the principal’s designee as well \nWhile a great deal \nof information on \nthe diagnosis and \ntreatment of ADHD is \navailable, not all of it \nis accurate or based \non scientific evidence. \nIt is up to you to be a \ngood consumer and \nlearn to distinguish the \naccurate information \nfrom the inaccurate.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 0,
+      "document_name": "parenting2015.pdf",
+      "page_number": 1,
+      "citation": "parenting2015.pdf:p1",
+      "section": "Parenting a Child with ADHD",
+      "chunk_id": "parenting2015-p1-c0003"
+    }
+  },
+  {
+    "page_content": "help4adhd.org\n2\nas a special educator and a classroom teacher that knows \nyour child. You, however, have the right to request input at \nthese meetings from others that understand ADHD or your \nchild’s special needs. These include your child’s physician, \nthe school psychologist, and the nurse or guidance \ncounselor from your child’s school. If you have consulted \nother professionals, such as a psychiatrist, psychologist, \neducational advocate or behavior management specialist, \nthe useful information they have provided should \nalso be made available at these meetings. A thorough \nunderstanding of your child’s strengths and weaknesses and \nhow ADHD affects him will help you and members of the \nteam go on to develop an appropriate and effective program \nthat takes into account his or her ADHD.\nLearn all you can about ADHD and your child’s \neducational rights. The more knowledge you have \nabout your child’s rights under the two education laws, \nthe Individuals with Disabilities Education Act (IDEA) \nand Section 504 of the Rehabilitation Act, the better to \nmaximize his or her success. Each state has a parent \ntechnical assistance center that can help you learn more \nabout your child’s rights (visit http://www.parentcenterhub.\norg/ptacs/ to find the center in your state). \nBecome your child’s best advocate. You need to represent \nand protect your child’s best interest in school situations, \nboth academic and behavioral. Become an active part of the \nteam that determines what services and placements your \nchild receives in an Individualized Education Plan (IEP) or",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 1,
+      "document_name": "parenting2015.pdf",
+      "page_number": 2,
+      "citation": "parenting2015.pdf:p2",
+      "section": "2",
+      "chunk_id": "parenting2015-p2-c0004"
+    }
+  },
+  {
+    "page_content": "enter in your state). \nBecome your child’s best advocate. You need to represent \nand protect your child’s best interest in school situations, \nboth academic and behavioral. Become an active part of the \nteam that determines what services and placements your \nchild receives in an Individualized Education Plan (IEP) or \nSection 504 plan. See Educational Rights for Children with \nADHD for more information.\nCommunicate regularly. Adopt a collaborative attitude \nwhen working with your child’s team—after all, everyone \nhas the same goal, to see your child succeed! Let your \nchild’s teachers know if there are some major changes \ngoing on in your family since your child’s behavior can be \naffected. Invite the teachers to contact you with any issues \nor concerns before they become a problem. Having open \nlines of communication between you and the school will \nhelp your child.\nHow to make life at home easier\nJoin a support group. Parents will find additional \ninformation, as well as support, by attending local CHADD \nmeetings where available. You can find the nearest chapter \nto your home on http://www.chadd.org using the chapter \nlocator. \nSeek professional help. Ask for help from mental health \nprofessionals, particularly if you are feeling depressed, \nfrustrated or exhausted. Helping yourself feel less stressed \nwill benefit your child as well.\nWork together. It is important that all of the adults that \ncare for your child (parents, grandparents, relatives and \nbabysitters) agree on how to handle your child’s problem \nbehaviors. Working with a professional, if needed, can help",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 1,
+      "document_name": "parenting2015.pdf",
+      "page_number": 2,
+      "citation": "parenting2015.pdf:p2",
+      "section": "2",
+      "chunk_id": "parenting2015-p2-c0005"
+    }
+  },
+  {
+    "page_content": "exhausted. Helping yourself feel less stressed \nwill benefit your child as well.\nWork together. It is important that all of the adults that \ncare for your child (parents, grandparents, relatives and \nbabysitters) agree on how to handle your child’s problem \nbehaviors. Working with a professional, if needed, can help \nyou better understand how to work together to support your \nchild.\nLearn the tools of successful behavior management. \nBehavioral techniques have been widely established as \na key component of treatment for children with ADHD. \nParent training will teach you strategies to change \nbehaviors and improve your relationship with your child. \nCHADD offers the Parent to Parent Program, which \nprovides basic education on many facets of ADHD. \nYou can also identify parent training programs in your \ncommunity through your local parent information and \nresource center (http://www.federalresourcecenter.org/frc/\nTAGuide/welcome.htm ) or parent training and information \ncenter (www.parentcenterhub.org/ptacs/). \nFind out if you have ADHD. Since ADHD is often \ninherited, many parents of children with ADHD discover \nthat they have ADHD when their child is diagnosed. \nParents with ADHD may need the same types of evaluation \nand treatment that they seek for their children in order \nto function at their best. ADHD in the parent may make \nthe home more chaotic and affect a parent’s ability to be \nproactive rather than reactive.\nParent training will help you learn to: \nProvide clear, consistent expectations, directions and \nlimits. Children with ADHD need to know exactly what",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 1,
+      "document_name": "parenting2015.pdf",
+      "page_number": 2,
+      "citation": "parenting2015.pdf:p2",
+      "section": "2",
+      "chunk_id": "parenting2015-p2-c0006"
+    }
+  },
+  {
+    "page_content": "ir children in order \nto function at their best. ADHD in the parent may make \nthe home more chaotic and affect a parent’s ability to be \nproactive rather than reactive.\nParent training will help you learn to: \nProvide clear, consistent expectations, directions and \nlimits. Children with ADHD need to know exactly what \nothers expect from them. They do not perform well in \nIdentify your child’s \nstrengths. Build upon \nthese strengths, so that \nyour child will have \na sense of pride and \naccomplishment.",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 1,
+      "document_name": "parenting2015.pdf",
+      "page_number": 2,
+      "citation": "parenting2015.pdf:p2",
+      "section": "2",
+      "chunk_id": "parenting2015-p2-c0007"
+    }
+  },
+  {
+    "page_content": "help4adhd.org\n3\nambiguous situations that don’t specify exactly what is \nexpected and that require them to “read between the lines.” \nWorking with a professional can help narrow the focus to a \nfew specific behaviors, help you set limits and consistently \nfollow through with consequences.\nSet up an effective discipline system. Parents should learn \nproactive—not reactive—discipline methods that teach and \nreward appropriate behavior and respond to misbehavior \nwith alternatives such as time outs or loss of privileges. \nCommunicate with the other people who care for your child \nand work to be as consistent with behavioral techniques \nacross settings and caregivers as possible.\nHelp your child learn from his or her mistakes. At times, \nnegative consequences will arise naturally out of a child’s \nbehavior. However, children with ADHD have difficulty \nmaking the connection between their behaviors and these \nconsequences. Parents can help their child with ADHD \nmake these connections and learn from his/her mistakes.\nHow to boost your child’s confidence\nSet aside a daily special time for you and your child. \nConstant negative feedback can erode a child’s self-esteem. \nA special time, whether it’s an outing, playing games or just \ntime spent with your child in positive interaction, can help \nfortify your child against assaults to self-worth. \nNotice your child’s successes, no matter how small. \nMake an effort to notice when your child is paying attention \nwell or doing what s/he is supposed to be doing. Tell your \nchild exactly what she/he did well. This can improve your",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 2,
+      "document_name": "parenting2015.pdf",
+      "page_number": 3,
+      "citation": "parenting2015.pdf:p3",
+      "section": "3",
+      "chunk_id": "parenting2015-p3-c0008"
+    }
+  },
+  {
+    "page_content": "n positive interaction, can help \nfortify your child against assaults to self-worth. \nNotice your child’s successes, no matter how small. \nMake an effort to notice when your child is paying attention \nwell or doing what s/he is supposed to be doing. Tell your \nchild exactly what she/he did well. This can improve your \nchild’s self-esteem and teach him/her to notice gradual \nimprovements, rather than being too hard on him/herself.\nTell your child that you love and support him/her \nunconditionally. There will be days when you may not \nbelieve this yourself. Those will be the days when it is even \nmore important that you acknowledge the difficulties your \nchild constantly faces and express your love. Let your child \nknow that you will get through both the smooth and rough \ntimes together.\nAssist your child with social skills. Children with ADHD \nmay be rejected by peers because of hyperactive, impulsive \nor aggressive behaviors. Parent training can help you learn \nhow to assist your child in making friends and learning to \nwork cooperatively with others. \nIdentify your child’s strengths. Many children with \nADHD have strengths in certain areas such as art, athletics, \ncomputers or mechanical ability. Build upon these \nstrengths, so that your child will have a sense of pride \nand accomplishment. Make sure that your child has the \nopportunity to be successful while pursuing these activities \nand that his strengths are not undermined by untreated \nADHD. Also, avoid, as much as possible, targeting \nthese activities as contingencies for good behavior or",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 2,
+      "document_name": "parenting2015.pdf",
+      "page_number": 3,
+      "citation": "parenting2015.pdf:p3",
+      "section": "3",
+      "chunk_id": "parenting2015-p3-c0009"
+    }
+  },
+  {
+    "page_content": "your child will have a sense of pride \nand accomplishment. Make sure that your child has the \nopportunity to be successful while pursuing these activities \nand that his strengths are not undermined by untreated \nADHD. Also, avoid, as much as possible, targeting \nthese activities as contingencies for good behavior or \nwithholding them, as a form of punishment, when your \nchild misbehaves. \nThis factsheet is supported by Cooperative Agreement \nNumber NU38DD005376 from the Centers for Disease \nControl and Prevention (CDC). The contents are solely \nthe responsibility of the authors and do not necessarily \nrepresent the official views of CDC. Permission is granted \nto photocopy and freely distribute this factsheet for non-\ncommercial, educational purposes only, provided that it is \nreproduced in its entirety, including the CHADD and NRC \nnames, logos and contact information.\n©2015 CHADD\nAll Rights Reserved\nFor further information please contact:\nNational Resource Center on ADHD\nChildren and Adults with Attention-Deficit/Hyperactivity \nDisorder\n4601 Presidents Drive, Suite 300\nLanham, MD 20706 \nwww.help4adhd.org",
+    "metadata": {
+      "source": "C:\\Users\\Hp\\Documents\\New project\\document_ingestion_task_adhd\\Data\\parenting2015.pdf",
+      "page": 2,
+      "document_name": "parenting2015.pdf",
+      "page_number": 3,
+      "citation": "parenting2015.pdf:p3",
+      "section": "3",
+      "chunk_id": "parenting2015-p3-c0010"
+    }
+  }
+]
